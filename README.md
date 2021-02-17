@@ -4,7 +4,7 @@ A simple price tracker for digimon TCG card price list. Prices are based on Japa
 - bigweb
 - yuyutei
 
-Prices will be updated weekly.
+> Prices will be updated weekly.
 
 
-Built using Streamlit
+*Built using Streamlit*
