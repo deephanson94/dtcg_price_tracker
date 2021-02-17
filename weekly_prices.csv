@@ -1,0 +1,1312 @@
+card_id,card_id_aa,name_eng,name_jap,AA,rarity,level,shop,p_20201219,p_20201226,p_20210104,p_20210109,p_20210116,p_20210124,p_20210130,p_20210206,p_20210214
+BT1-001,BT1-001,Yokomon,ピョコモン,False,R,2,bigweb,80,80,80,0,0,80,80,80,80
+BT1-001,BT1-001,Yokomon,ピョコモン,False,R,2,yuyutei,0,0,0,100,100,100,100,100,100
+BT1-002,BT1-002,Babydmon,ベビドモン,False,U,2,bigweb,90,90,90,0,0,90,90,90,90
+BT1-002,BT1-002,Babydmon,ベビドモン,False,U,2,yuyutei,0,0,0,50,50,50,50,50,50
+BT1-003,BT1-003,Upamon,ウパモン,False,R,2,bigweb,220,220,200,0,0,200,0,230,230
+BT1-003,BT1-003,Upamon,ウパモン,False,R,2,yuyutei,0,0,0,300,300,300,300,300,300
+BT1-004,BT1-004,Wanyamon,ワニャモン,False,U,2,bigweb,30,30,30,0,0,30,30,30,30
+BT1-004,BT1-004,Wanyamon,ワニャモン,False,U,2,yuyutei,0,0,0,50,50,50,50,50,50
+BT1-005,BT1-005,Kyaromon,キャロモン,False,U,2,bigweb,50,50,50,0,0,50,50,50,50
+BT1-005,BT1-005,Kyaromon,キャロモン,False,U,2,yuyutei,0,0,0,50,50,50,50,50,50
+BT1-006,BT1-006,Kyupimon,キュピモン,False,R,2,bigweb,150,150,150,0,0,150,150,150,150
+BT1-006,BT1-006,Kyupimon,キュピモン,False,R,2,yuyutei,0,0,0,200,200,200,200,200,200
+BT1-007,BT1-007,Tanemon,タネモン,False,R,2,bigweb,120,120,150,0,0,150,150,150,150
+BT1-007,BT1-007,Tanemon,タネモン,False,R,2,yuyutei,0,0,0,200,200,200,200,200,200
+BT1-008,BT1-008,Frimon,フリモン,False,U,2,bigweb,80,80,80,0,0,80,80,80,80
+BT1-008,BT1-008,Frimon,フリモン,False,U,2,yuyutei,0,0,0,50,50,50,50,50,50
+BT1-009,BT1-009,Monodramon,モノドラモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT1-009,BT1-009,Monodramon,モノドラモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-010,BT1-010,Agumon,アグモン,False,R,3,bigweb,150,150,150,0,0,180,180,180,180
+BT1-010,BT1-010B,Agumon,アグモン,True,R,3,bigweb,0,1380,1380,0,0,0,0,0,0
+BT1-010,BT1-010,Agumon,アグモン,False,R,3,yuyutei,0,0,0,200,200,200,200,200,200
+BT1-010,BT1-010B,Agumon,アグモン,True,R,3,yuyutei,0,0,0,1980,1980,1980,1980,1980,1980
+BT1-011,BT1-011,Agumon Expert,アグモン博士,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT1-011,BT1-011,Agumon Expert,アグモン博士,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-012,BT1-012,Biyomon,ピヨモン,False,U,3,bigweb,30,30,30,0,0,30,30,30,30
+BT1-012,BT1-012,Biyomon,ピヨモン,False,U,3,yuyutei,0,0,0,50,50,50,50,50,50
+BT1-013,BT1-013,Muchomon,ムーチョモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT1-013,BT1-013,Muchomon,ムーチョモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-014,BT1-014,Kokatorimon,コカトリモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT1-014,BT1-014,Kokatorimon,コカトリモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-015,BT1-015,Greymon,グレイモン,False,U,4,bigweb,80,80,80,0,0,80,80,80,80
+BT1-015,BT1-015,Greymon,グレイモン,False,U,4,yuyutei,0,0,0,100,100,100,100,100,100
+BT1-016,BT1-016,Tyrannomon,ティラノモン,False,R,4,bigweb,120,120,120,0,0,120,120,120,120
+BT1-016,BT1-016,Tyrannomon,ティラノモン,False,R,4,yuyutei,0,0,0,200,200,200,200,200,200
+BT1-017,BT1-017,Birdramon,バードラモン,False,U,4,bigweb,30,30,30,0,0,30,30,30,30
+BT1-017,BT1-017,Birdramon,バードラモン,False,U,4,yuyutei,0,0,0,30,30,30,30,30,30
+BT1-018,BT1-018,Flarerizamon,フレアリザモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT1-018,BT1-018,Flarerizamon,フレアリザモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-019,BT1-019,DarkTyrannomon,ダークティラノモン,False,C,4,bigweb,100,100,100,0,0,100,100,100,100
+BT1-019,BT1-019,DarkTyrannomon,ダークティラノモン,False,C,4,yuyutei,0,0,0,30,30,30,30,30,30
+BT1-020,BT1-020,Groundramon,グラウンドラモン,False,U,5,bigweb,150,150,0,0,0,180,180,180,180
+BT1-020,BT1-020,Groundramon,グラウンドラモン,False,U,5,yuyutei,0,0,0,200,200,200,200,200,200
+BT1-021,BT1-021,MetalGreymon,メタルグレイモン,False,U,5,bigweb,30,30,30,0,0,50,50,50,50
+BT1-021,BT1-021,MetalGreymon,メタルグレイモン,False,U,5,yuyutei,0,0,0,50,50,50,50,50,100
+BT1-022,BT1-022,Garudamon,ガルダモン,False,SR,5,bigweb,50,50,50,0,0,50,50,0,0
+BT1-022,BT1-022,Garudamon,ガルダモン,False,SR,5,yuyutei,0,0,0,300,300,300,300,300,300
+BT1-023,BT1-023,SkullGreymon,スカルグレイモン,False,R,5,bigweb,150,0,150,0,0,150,150,150,150
+BT1-023,BT1-023,SkullGreymon,スカルグレイモン,False,R,5,yuyutei,0,0,0,300,300,300,300,300,300
+BT1-024,BT1-024,MetalTyrannomon,メタルティラノモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT1-024,BT1-024,MetalTyrannomon,メタルティラノモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-025,BT1-025,WarGreymon,ウォーグレイモン,False,SR,6,bigweb,300,300,280,0,0,300,0,0,0
+BT1-025,BT1-025B,WarGreymon,ウォーグレイモン,True,SR,6,bigweb,2280,2280,2000,0,0,0,0,0,0
+BT1-025,BT1-025,WarGreymon,ウォーグレイモン,False,SR,6,yuyutei,0,0,0,500,500,500,500,500,500
+BT1-025,BT1-025B,WarGreymon,ウォーグレイモン,True,SR,6,yuyutei,0,0,0,2480,2480,2480,2480,2480,2480
+BT1-026,BT1-026,Brakedramon,ブレイクドラモン,False,U,6,bigweb,30,30,30,0,0,30,30,30,30
+BT1-026,BT1-026,Brakedramon,ブレイクドラモン,False,U,6,yuyutei,0,0,0,30,30,30,30,30,30
+BT1-027,BT1-027,Armadillomon,アルマジモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT1-027,BT1-027,Armadillomon,アルマジモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-028,BT1-028,Elecmon,エレキモン,False,C,3,bigweb,60,60,60,0,0,60,60,60,60
+BT1-028,BT1-028,Elecmon,エレキモン,False,C,3,yuyutei,0,0,0,100,100,100,100,100,100
+BT1-029,BT1-029,Gabumon,ガブモン,False,R,3,bigweb,250,200,200,0,0,250,250,250,250
+BT1-029,BT1-029B,Gabumon,ガブモン,True,R,3,bigweb,2500,2500,2500,0,0,0,0,0,0
+BT1-029,BT1-029,Gabumon,ガブモン,False,R,3,yuyutei,0,0,0,200,200,200,300,300,300
+BT1-029,BT1-029B,Gabumon,ガブモン,True,R,3,yuyutei,0,0,0,1980,1980,1980,2480,2480,2480
+BT1-030,BT1-030,Gomamon,ゴマモン,False,C,3,bigweb,50,50,50,0,0,50,50,50,50
+BT1-030,BT1-030,Gomamon,ゴマモン,False,C,3,yuyutei,0,0,0,50,50,50,50,50,50
+BT1-031,BT1-031,Monmon,コエモン,False,U,3,bigweb,50,50,50,0,0,50,50,50,50
+BT1-031,BT1-031,Monmon,コエモン,False,U,3,yuyutei,0,0,0,50,50,50,50,50,50
+BT1-032,BT1-032,Frigimon,ユキダルモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT1-032,BT1-032,Frigimon,ユキダルモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-033,BT1-033,Orcamon,ルカモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT1-033,BT1-033,Orcamon,ルカモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-034,BT1-034,Ikkakumon,イッカクモン,False,R,4,bigweb,50,50,50,0,0,50,50,50,50
+BT1-034,BT1-034,Ikkakumon,イッカクモン,False,R,4,yuyutei,0,0,0,50,50,50,50,50,50
+BT1-035,BT1-035,Leomon,レオモン,False,U,4,bigweb,120,120,120,0,0,100,100,100,100
+BT1-035,BT1-035,Leomon,レオモン,False,U,4,yuyutei,0,0,0,150,150,150,150,150,150
+BT1-036,BT1-036,Garurumon,ガルルモン,False,U,4,bigweb,80,80,80,0,0,80,80,80,80
+BT1-036,BT1-036,Garurumon,ガルルモン,False,U,4,yuyutei,0,0,0,100,100,100,100,100,100
+BT1-037,BT1-037,Gorillamon,ゴリモン,False,C,4,bigweb,50,50,50,0,0,50,50,50,50
+BT1-037,BT1-037,Gorillamon,ゴリモン,False,C,4,yuyutei,0,0,0,30,30,30,30,30,30
+BT1-038,BT1-038,Monzaemon,もんざえモン,False,C,5,bigweb,50,50,50,0,0,50,50,50,50
+BT1-038,BT1-038,Monzaemon,もんざえモン,False,C,5,yuyutei,0,0,0,30,30,30,30,30,30
+BT1-039,BT1-039,Cerberusmon,ケルベロモン,False,R,5,bigweb,50,50,50,0,0,50,50,50,50
+BT1-039,BT1-039,Cerberusmon,ケルベロモン,False,R,5,yuyutei,0,0,0,50,50,50,50,50,50
+BT1-040,BT1-040,WereGarurumon,ワーガルルモン,False,U,5,bigweb,80,90,90,0,0,90,90,90,90
+BT1-040,BT1-040,WereGarurumon,ワーガルルモン,False,U,5,yuyutei,0,0,0,50,50,50,50,50,50
+BT1-041,BT1-041,Zudomon,ズドモン,False,SR,5,bigweb,300,300,280,0,0,280,280,280,350
+BT1-041,BT1-041,Zudomon,ズドモン,False,SR,5,yuyutei,0,0,0,500,500,500,300,300,300
+BT1-042,BT1-042,LoaderLiomon,ローダーレオモン,False,U,5,bigweb,30,30,30,0,0,30,30,30,30
+BT1-042,BT1-042,LoaderLiomon,ローダーレオモン,False,U,5,yuyutei,0,0,0,30,30,30,30,30,30
+BT1-043,BT1-043,SaberLeomon,サーベルレオモン,False,U,6,bigweb,30,30,30,0,0,30,30,30,30
+BT1-043,BT1-043,SaberLeomon,サーベルレオモン,False,U,6,yuyutei,0,0,0,30,30,30,30,30,30
+BT1-044,BT1-044,MetalGarurumon,メタルガルルモン,False,SR,6,bigweb,380,380,280,0,0,300,300,0,0
+BT1-044,BT1-044B,MetalGarurumon,メタルガルルモン,True,SR,6,bigweb,1280,1280,1000,0,0,0,0,0,0
+BT1-044,BT1-044,MetalGarurumon,メタルガルルモン,False,SR,6,yuyutei,0,0,0,500,500,500,400,400,400
+BT1-044,BT1-044B,MetalGarurumon,メタルガルルモン,True,SR,6,yuyutei,0,0,0,1480,1480,1480,1480,1480,1780
+BT1-045,BT1-045,Tsukaimon,ツカイモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT1-045,BT1-045,Tsukaimon,ツカイモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-046,BT1-046,Kudamon,クダモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT1-046,BT1-046,Kudamon,クダモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-047,BT1-047,Tinkermon,ティンカーモン,False,U,3,bigweb,100,150,150,0,0,150,150,150,150
+BT1-047,BT1-047,Tinkermon,ティンカーモン,False,U,3,yuyutei,0,0,0,100,100,100,100,100,100
+BT1-048,BT1-048,Patamon,パタモン,False,R,3,bigweb,180,180,180,0,0,180,180,180,180
+BT1-048,BT1-048,Patamon,パタモン,False,R,3,yuyutei,0,0,0,100,100,100,100,100,100
+BT1-049,BT1-049,Labramon,ラブラモン,False,U,3,bigweb,100,100,100,0,0,100,100,100,100
+BT1-049,BT1-049,Labramon,ラブラモン,False,U,3,yuyutei,0,0,0,50,50,50,50,50,50
+BT1-050,BT1-050,Liollmon,レオルモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT1-050,BT1-050,Liollmon,レオルモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-051,BT1-051,Reppamon,レッパモン,False,C,4,bigweb,80,80,80,0,0,80,80,80,80
+BT1-051,BT1-051,Reppamon,レッパモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-052,BT1-052,Seasarmon,シーサモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT1-052,BT1-052,Seasarmon,シーサモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-053,BT1-053,Darcmon,ダルクモン,False,U,4,bigweb,30,30,30,0,0,30,30,30,30
+BT1-053,BT1-053,Darcmon,ダルクモン,False,U,4,yuyutei,0,0,0,100,100,100,100,100,100
+BT1-054,BT1-054,Liamon,ライアモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT1-054,BT1-054,Liamon,ライアモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-055,BT1-055,Angemon,エンジェモン,False,R,4,bigweb,50,50,50,0,0,50,50,50,50
+BT1-055,BT1-055,Angemon,エンジェモン,False,R,4,yuyutei,0,0,0,100,100,100,100,100,100
+BT1-056,BT1-056,Petermon,ピーターモン,False,U,4,bigweb,80,100,100,0,0,100,100,100,100
+BT1-056,BT1-056,Petermon,ピーターモン,False,U,4,yuyutei,0,0,0,100,100,100,100,100,100
+BT1-057,BT1-057,Sirenmon,セイレーンモン,False,U,5,bigweb,120,120,0,0,0,180,180,180,180
+BT1-057,BT1-057,Sirenmon,セイレーンモン,False,U,5,yuyutei,0,0,0,100,100,100,100,100,100
+BT1-058,BT1-058,Chirinmon,チィリンモン,False,U,5,bigweb,30,30,30,0,0,30,30,30,30
+BT1-058,BT1-058,Chirinmon,チィリンモン,False,U,5,yuyutei,0,0,0,30,30,30,30,30,30
+BT1-059,BT1-059,Piximon,ピッコロモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT1-059,BT1-059,Piximon,ピッコロモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-060,BT1-060,MagnaAngemon,ホーリーエンジェモン,False,SR,5,bigweb,700,800,800,0,0,800,800,700,0
+BT1-060,BT1-060B,MagnaAngemon,ホーリーエンジェモン,True,SR,5,bigweb,1500,0,1600,0,0,0,1980,1980,0
+BT1-060,BT1-060,MagnaAngemon,ホーリーエンジェモン,False,SR,5,yuyutei,0,0,0,780,780,780,780,780,780
+BT1-060,BT1-060B,MagnaAngemon,ホーリーエンジェモン,True,SR,5,yuyutei,0,0,0,1780,1780,1780,1780,1780,1780
+BT1-061,BT1-061,Mistymon,ミスティモン,False,R,5,bigweb,100,100,100,0,0,100,100,100,100
+BT1-061,BT1-061,Mistymon,ミスティモン,False,R,5,yuyutei,0,0,0,100,100,100,100,100,100
+BT1-062,BT1-062,SlashAngemon,スラッシュエンジェモン,False,U,6,bigweb,80,90,90,0,0,100,100,100,120
+BT1-062,BT1-062,SlashAngemon,スラッシュエンジェモン,False,U,6,yuyutei,0,0,0,100,100,100,100,100,100
+BT1-063,BT1-063,Seraphimon,セラフィモン,False,SR,6,bigweb,450,500,400,0,0,400,400,400,0
+BT1-063,BT1-063,Seraphimon,セラフィモン,False,SR,6,yuyutei,0,0,0,500,500,500,500,500,500
+BT1-064,BT1-064,Goblimon,ゴブリモン,False,C,3,bigweb,80,90,90,0,0,90,90,90,90
+BT1-064,BT1-064,Goblimon,ゴブリモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-065,BT1-065,Mushroomon,マッシュモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT1-065,BT1-065,Mushroomon,マッシュモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-066,BT1-066,Tentomon,テントモン,False,U,3,bigweb,80,80,80,0,0,80,80,80,80
+BT1-066,BT1-066,Tentomon,テントモン,False,U,3,yuyutei,0,0,0,100,100,100,100,100,100
+BT1-067,BT1-067,Palmon,パルモン,False,U,3,bigweb,100,100,100,0,0,100,100,100,100
+BT1-067,BT1-067,Palmon,パルモン,False,U,3,yuyutei,0,0,0,200,200,150,200,200,200
+BT1-068,BT1-068,Kokuwamon,コクワモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT1-068,BT1-068,Kokuwamon,コクワモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-069,BT1-069,Ogremon,オーガモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT1-069,BT1-069,Ogremon,オーガモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-070,BT1-070,Kuwagamon,クワガーモン,False,U,4,bigweb,30,30,30,0,0,30,30,30,30
+BT1-070,BT1-070,Kuwagamon,クワガーモン,False,U,4,yuyutei,0,0,0,30,30,30,30,30,30
+BT1-071,BT1-071,Vegiemon,ベジーモン,False,C,4,bigweb,50,50,50,0,0,50,50,50,50
+BT1-071,BT1-071,Vegiemon,ベジーモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-072,BT1-072,Woodmon,ウッドモン,False,U,4,bigweb,200,200,200,0,0,280,280,280,280
+BT1-072,BT1-072,Woodmon,ウッドモン,False,U,4,yuyutei,0,0,0,200,200,200,200,200,200
+BT1-073,BT1-073,Kabuterimon,カブテリモン,False,C,4,bigweb,50,50,50,0,0,50,50,50,50
+BT1-073,BT1-073,Kabuterimon,カブテリモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-074,BT1-074,Togemon,トゲモン,False,R,4,bigweb,200,200,200,0,0,220,220,220,220
+BT1-074,BT1-074,Togemon,トゲモン,False,R,4,yuyutei,0,0,0,200,200,200,200,200,200
+BT1-075,BT1-075,Digitamamon,デジタマモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT1-075,BT1-075,Digitamamon,デジタマモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-076,BT1-076,MegaKabuterimon,アトラーカブテリモン,False,U,5,bigweb,50,50,50,0,0,50,50,50,50
+BT1-076,BT1-076,MegaKabuterimon,アトラーカブテリモン,False,U,5,yuyutei,0,0,0,50,50,50,50,50,50
+BT1-077,BT1-077,Okuwamon,オオクワモン,False,C,5,bigweb,50,50,50,0,0,50,50,50,50
+BT1-077,BT1-077,Okuwamon,オオクワモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-078,BT1-078,Jagamon,ジャガモン,False,U,5,bigweb,30,30,30,0,0,30,30,30,30
+BT1-078,BT1-078,Jagamon,ジャガモン,False,U,5,yuyutei,0,0,0,100,100,100,100,100,100
+BT1-079,BT1-079,Lillymon,リリモン,False,R,5,bigweb,180,180,180,0,0,180,180,180,180
+BT1-079,BT1-079,Lillymon,リリモン,False,R,5,yuyutei,0,0,0,200,200,200,200,200,200
+BT1-080,BT1-080,Titamon,タイタモン,False,U,6,bigweb,100,100,100,0,0,80,80,80,80
+BT1-080,BT1-080,Titamon,タイタモン,False,U,6,yuyutei,0,0,0,100,100,100,100,100,100
+BT1-081,BT1-081,HerculesKabuterimon,ヘラクルカブテリモン,False,SR,6,bigweb,80,80,80,0,0,80,80,80,0
+BT1-081,BT1-081,HerculesKabuterimon,ヘラクルカブテリモン,False,SR,6,yuyutei,0,0,0,300,300,300,200,200,200
+BT1-082,BT1-082,Rosemon,ロゼモン,False,SR,6,bigweb,80,80,80,0,0,100,100,0,0
+BT1-082,BT1-082B,Rosemon,ロゼモン,True,SR,6,bigweb,980,0,980,0,0,0,0,0,0
+BT1-082,BT1-082,Rosemon,ロゼモン,False,SR,6,yuyutei,0,0,0,400,400,400,300,300,300
+BT1-082,BT1-082B,Rosemon,ロゼモン,True,SR,6,yuyutei,0,0,0,980,980,980,980,980,980
+BT1-083,BT1-083,GranKuwagamon,グランクワガーモン,False,SR,6,bigweb,150,150,150,0,0,150,150,150,0
+BT1-083,BT1-083B,GranKuwagamon,グランクワガーモン,True,SR,6,bigweb,900,0,0,0,0,980,0,0,0
+BT1-083,BT1-083,GranKuwagamon,グランクワガーモン,False,SR,6,yuyutei,0,0,0,400,400,400,300,300,300
+BT1-083,BT1-083B,GranKuwagamon,グランクワガーモン,True,SR,6,yuyutei,0,0,0,980,980,980,980,980,980
+BT1-084,BT1-084,Omegamon,オメガモン,False,SR,7,bigweb,3980,3980,4000,0,0,0,0,0,4500
+BT1-084,BT1-084B,Omegamon,オメガモン,True,SR,7,bigweb,0,0,11000,0,0,0,0,0,11000
+BT1-084,BT1-084,Omegamon,オメガモン,False,SR,7,yuyutei,0,0,0,4980,4980,4980,4980,4980,4980
+BT1-084,BT1-084B,Omegamon,オメガモン,True,SR,7,yuyutei,0,0,0,9980,9980,9980,9980,9980,9980
+BT1-085,BT1-085,Taichi Yagami,八神太一,False,R,0,bigweb,200,200,200,0,0,200,200,200,200
+BT1-085,BT1-085B,Taichi Yagami,八神太一,True,R,0,bigweb,250,250,250,0,0,250,250,0,0
+BT1-085,BT1-085,Taichi Yagami,八神太一,False,R,0,yuyutei,0,0,0,200,200,200,200,200,300
+BT1-085,BT1-085B,Taichi Yagami,八神太一,True,R,0,yuyutei,0,0,0,500,500,500,500,500,500
+BT1-086,BT1-086,Yamato Ishida,石田ヤマト,False,R,0,bigweb,80,80,80,0,0,80,80,80,80
+BT1-086,BT1-086B,Yamato Ishida,石田ヤマト,True,R,0,bigweb,150,150,150,0,0,150,150,0,0
+BT1-086,BT1-086,Yamato Ishida,石田ヤマト,False,R,0,yuyutei,0,0,0,100,100,100,100,100,200
+BT1-086,BT1-086B,Yamato Ishida,石田ヤマト,True,R,0,yuyutei,0,0,0,300,300,300,300,300,300
+BT1-087,BT1-087,Takeru Takaishi,高石タケル,False,R,0,bigweb,250,280,280,0,0,300,300,0,300
+BT1-087,BT1-087B,Takeru Takaishi,高石タケル,True,R,0,bigweb,300,300,300,0,0,400,0,0,0
+BT1-087,BT1-087,Takeru Takaishi,高石タケル,False,R,0,yuyutei,0,0,0,300,300,300,300,300,300
+BT1-087,BT1-087B,Takeru Takaishi,高石タケル,True,R,0,yuyutei,0,0,0,400,400,400,500,500,500
+BT1-088,BT1-088,Koshiro Izumi,泉光子郎,False,R,0,bigweb,100,100,100,0,0,100,100,100,100
+BT1-088,BT1-088B,Koshiro Izumi,泉光子郎,True,R,0,bigweb,120,120,120,0,0,120,120,0,0
+BT1-088,BT1-088,Koshiro Izumi,泉光子郎,False,R,0,yuyutei,0,0,0,100,100,100,100,100,100
+BT1-088,BT1-088B,Koshiro Izumi,泉光子郎,True,R,0,yuyutei,0,0,0,200,200,200,200,200,200
+BT1-089,BT1-089,Mimi Tachikawa,太刀川ミミ,False,R,0,bigweb,200,280,280,0,0,280,280,280,280
+BT1-089,BT1-089B,Mimi Tachikawa,太刀川ミミ,True,R,0,bigweb,350,350,350,0,0,300,300,0,0
+BT1-089,BT1-089,Mimi Tachikawa,太刀川ミミ,False,R,0,yuyutei,0,0,0,300,300,300,300,300,300
+BT1-089,BT1-089B,Mimi Tachikawa,太刀川ミミ,True,R,0,yuyutei,0,0,0,300,300,300,300,300,400
+BT1-090,BT1-090,Gravity Crush,グラビティプレス,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT1-090,BT1-090,Gravity Crush,グラビティプレス,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-091,BT1-091,Scrap Claw,スクラップレスクロー,False,R,0,bigweb,50,50,50,0,0,50,50,50,50
+BT1-091,BT1-091,Scrap Claw,スクラップレスクロー,False,R,0,yuyutei,0,0,0,50,50,50,50,50,50
+BT1-092,BT1-092,Nuclear Laser,ヌークリアレーザー,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT1-092,BT1-092,Nuclear Laser,ヌークリアレーザー,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-093,BT1-093,Great Tornado,ブレイブトルネード,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT1-093,BT1-093,Great Tornado,ブレイブトルネード,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-094,BT1-094,Oblivion Bird,オブリビオンバード,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT1-094,BT1-094,Oblivion Bird,オブリビオンバード,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-095,BT1-095,Brave Shield,ブレイブシールド,False,R,0,bigweb,50,50,50,0,0,50,50,50,50
+BT1-095,BT1-095B,Brave Shield,ブレイブシールド,True,R,0,bigweb,480,480,480,0,0,0,0,0,0
+BT1-095,BT1-095,Brave Shield,ブレイブシールド,False,R,0,yuyutei,0,0,0,50,50,50,50,50,50
+BT1-095,BT1-095B,Brave Shield,ブレイブシールド,True,R,0,yuyutei,0,0,0,580,580,580,580,580,580
+BT1-096,BT1-096,Emerald Blaze,ヘルファイアー,False,R,0,bigweb,80,80,80,0,0,80,80,80,80
+BT1-096,BT1-096,Emerald Blaze,ヘルファイアー,False,R,0,yuyutei,0,0,0,100,100,100,100,100,100
+BT1-097,BT1-097,Boring Storm,ボーリンストーム,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT1-097,BT1-097,Boring Storm,ボーリンストーム,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-098,BT1-098,V-Breath Arrow,ブイブレスアロー,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT1-098,BT1-098,V-Breath Arrow,ブイブレスアロー,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-099,BT1-099,Hearts Attack,ラブリーアタック,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT1-099,BT1-099,Hearts Attack,ラブリーアタック,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-100,BT1-100,Grace Cross Freezer,グレイスクロスフリーザー,False,R,0,bigweb,50,50,50,0,0,50,50,50,50
+BT1-100,BT1-100,Grace Cross Freezer,グレイスクロスフリーザー,False,R,0,bigweb,50,50,50,0,0,50,50,50,50
+BT1-100,BT1-100,Grace Cross Freezer,グレイスクロスフリーザー,False,R,0,yuyutei,0,0,0,50,50,50,50,50,50
+BT1-101,BT1-101,Howling Crusher,ネイルクラッシャー,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT1-101,BT1-101B,Howling Crusher,ネイルクラッシャー,True,C,0,bigweb,500,500,500,0,0,0,0,0,0
+BT1-101,BT1-101,Howling Crusher,ネイルクラッシャー,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-101,BT1-101B,Howling Crusher,ネイルクラッシャー,True,C,0,yuyutei,0,0,0,400,400,400,400,400,500
+BT1-102,BT1-102,Blade of the True,ホーリーエスパーダ,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT1-102,BT1-102,Blade of the True,ホーリーエスパーダ,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-103,BT1-103,Testament,テスタメント,False,R,0,bigweb,50,50,50,0,0,50,50,50,50
+BT1-103,BT1-103,Testament,テスタメント,False,R,0,yuyutei,0,0,0,50,50,50,50,50,50
+BT1-104,BT1-104,Golden Ripper,ヘブンズリッパー,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT1-104,BT1-104,Golden Ripper,ヘブンズリッパー,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-105,BT1-105,Blast Fire,ブラストファイア,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT1-105,BT1-105,Blast Fire,ブラストファイア,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-106,BT1-106,Symphony No. 1 ＜Polyphony＞,第一曲≪ポリフォニー≫,False,R,0,bigweb,50,50,50,0,0,50,50,50,50
+BT1-106,BT1-106,Symphony No. 1 ＜Polyphony＞,第一曲≪ポリフォニー≫,False,R,0,yuyutei,0,0,0,50,50,50,50,50,50
+BT1-107,BT1-107,Holy Wave,改心の波動,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT1-107,BT1-107B,Holy Wave,改心の波動,True,C,0,bigweb,600,700,700,0,0,0,0,0,0
+BT1-107,BT1-107,Holy Wave,改心の波動,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-107,BT1-107B,Holy Wave,改心の波動,True,C,0,yuyutei,0,0,0,500,500,500,500,500,580
+BT1-108,BT1-108,Horn Buster,ホーンバスター,False,C,0,bigweb,30,30,30,0,0,30,30,30,30
+BT1-108,BT1-108,Horn Buster,ホーンバスター,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-109,BT1-109,Smashed Potatoes,スマッシュポテト,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT1-109,BT1-109,Smashed Potatoes,スマッシュポテト,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-110,BT1-110,Flower Cannon,フラウカノン,False,R,0,bigweb,250,250,250,0,0,250,250,250,220
+BT1-110,BT1-110,Flower Cannon,フラウカノン,False,R,0,bigweb,250,250,250,0,0,250,250,250,220
+BT1-110,BT1-110B,Flower Cannon,フラウカノン,True,R,0,bigweb,0,1980,1980,0,0,0,0,2000,0
+BT1-110,BT1-110B,Flower Cannon,フラウカノン,True,R,0,bigweb,0,1980,1980,0,0,0,0,2000,0
+BT1-110,BT1-110,Flower Cannon,フラウカノン,False,R,0,yuyutei,0,0,0,300,300,300,300,300,300
+BT1-110,BT1-110B,Flower Cannon,フラウカノン,True,R,0,yuyutei,0,0,0,1780,1780,1780,1780,1780,1780
+BT1-111,BT1-111,Mega Electro Shocker,ギガブラスター,False,R,0,bigweb,80,80,80,0,0,80,80,80,80
+BT1-111,BT1-111,Mega Electro Shocker,ギガブラスター,False,R,0,yuyutei,0,0,0,100,100,100,100,100,100
+BT1-112,BT1-112,Dimension Scissor,ディメンションシザー,False,C,0,bigweb,30,30,30,0,0,30,30,30,30
+BT1-112,BT1-112,Dimension Scissor,ディメンションシザー,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-113,BT1-113,Forbidden Temptation,フォービドゥンテンプテイション,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT1-113,BT1-113,Forbidden Temptation,フォービドゥンテンプテイション,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT1-114,BT1-114,MetalGreymon,メタルグレイモン,False,SEC,5,bigweb,680,600,580,0,0,600,0,0,0
+BT1-114,BT1-114B,MetalGreymon,メタルグレイモン,True,SEC,5,bigweb,0,0,0,0,0,2500,0,0,0
+BT1-114,BT1-114,MetalGreymon,メタルグレイモン,False,SEC,5,yuyutei,0,0,0,780,780,780,780,780,1280
+BT1-114,BT1-114B,MetalGreymon,メタルグレイモン,True,SEC,5,yuyutei,0,0,0,2980,2980,2980,2980,2980,2980
+BT1-115,BT1-115,Veedramon,ブイドラモン,False,SEC,4,bigweb,1280,1280,1280,0,0,1280,1280,1280,0
+BT1-115,BT1-115B,Veedramon,ブイドラモン,True,SEC,4,bigweb,2280,2280,2000,0,0,1980,1980,0,0
+BT1-115,BT1-115,Veedramon,ブイドラモン,False,SEC,4,yuyutei,0,0,0,1480,1480,1480,1480,1480,1480
+BT1-115,BT1-115B,Veedramon,ブイドラモン,True,SEC,4,yuyutei,0,0,0,2480,2480,2480,2480,2480,2480
+BT2-001,BT2-001,Gigimon,ギギモン,False,U,2,bigweb,180,180,180,0,0,150,150,150,150
+BT2-001,BT2-001,Gigimon,ギギモン,False,U,2,yuyutei,0,0,0,100,100,100,200,200,200
+BT2-002,BT2-002,DemiVeemon,チビモン,False,U,2,bigweb,50,50,50,0,0,50,50,50,50
+BT2-002,BT2-002,DemiVeemon,チビモン,False,U,2,yuyutei,0,0,0,50,50,50,50,50,50
+BT2-003,BT2-003,Nyaromon,ニャロモン,False,U,2,bigweb,30,30,30,0,0,30,30,30,30
+BT2-003,BT2-003,Nyaromon,ニャロモン,False,U,2,yuyutei,0,0,0,30,30,30,30,30,30
+BT2-004,BT2-004,Argomon ,アルゴモン,False,U,2,bigweb,150,150,150,0,0,150,150,150,120
+BT2-004,BT2-004,Argomon ,アルゴモン,False,U,2,yuyutei,0,0,0,100,100,100,100,100,100
+BT2-005,BT2-005,Kapurimon,カプリモン,False,C,2,bigweb,50,50,80,0,0,80,80,80,80
+BT2-005,BT2-005,Kapurimon,カプリモン,False,C,2,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-006,BT2-006,Tsumemon,ツメモン,False,R,2,bigweb,80,80,80,0,0,80,80,80,90
+BT2-006,BT2-006,Tsumemon,ツメモン,False,R,2,yuyutei,0,0,0,100,100,100,100,100,100
+BT2-007,BT2-007,Pagumon,パグモン,False,C,2,bigweb,20,20,20,0,0,20,20,20,20
+BT2-007,BT2-007,Pagumon,パグモン,False,C,2,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-008,BT2-008,Yaamon,ヤーモン,False,R,2,bigweb,80,80,80,0,0,80,80,80,80
+BT2-008,BT2-008,Yaamon,ヤーモン,False,R,2,yuyutei,0,0,0,100,100,100,100,100,100
+BT2-009,BT2-009,Guilmon,ギルモン,False,C,3,bigweb,20,20,20,0,0,50,50,50,50
+BT2-009,BT2-009,Guilmon,ギルモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-010,BT2-010,Biyomon,ピヨモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT2-010,BT2-010,Biyomon,ピヨモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-011,BT2-011,Vorvomon,ヴォーボモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT2-011,BT2-011,Vorvomon,ヴォーボモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-012,BT2-012,Birdramon,バードラモン,False,U,4,bigweb,30,30,30,0,0,30,30,30,30
+BT2-012,BT2-012,Birdramon,バードラモン,False,U,4,yuyutei,0,0,0,30,30,30,30,30,30
+BT2-013,BT2-013,Growlmon,グラウモン,False,U,4,bigweb,30,30,30,0,0,30,30,30,30
+BT2-013,BT2-013,Growlmon,グラウモン,False,U,4,yuyutei,0,0,0,30,30,30,30,30,30
+BT2-014,BT2-014,Lavorvomon,ラヴォーボモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT2-014,BT2-014,Lavorvomon,ラヴォーボモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-015,BT2-015,Garudamon,ガルダモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT2-015,BT2-015,Garudamon,ガルダモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-016,BT2-016,Lavogaritamon,ラヴォガリータモン,False,C,5,bigweb,50,50,50,0,0,80,80,80,80
+BT2-016,BT2-016,Lavogaritamon,ラヴォガリータモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-017,BT2-017,WarGrowlmon,メガログラウモン,False,R,5,bigweb,80,80,80,0,0,80,80,80,80
+BT2-017,BT2-017,WarGrowlmon,メガログラウモン,False,R,5,yuyutei,0,0,0,100,100,100,100,100,100
+BT2-018,BT2-018,Volcanicdramon,ヴォルケニックドラモン,False,C,6,bigweb,50,50,50,0,0,50,50,50,50
+BT2-018,BT2-018,Volcanicdramon,ヴォルケニックドラモン,False,C,6,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-019,BT2-019,Phoenixmon,ホウオウモン,False,R,6,bigweb,50,50,50,0,0,50,50,50,50
+BT2-019,BT2-019,Phoenixmon,ホウオウモン,False,R,6,yuyutei,0,0,0,100,100,100,100,100,100
+BT2-020,BT2-020,Gallantmon,デュークモン,False,SR,6,bigweb,300,300,280,0,0,300,0,0,500
+BT2-020,BT2-020B,Gallantmon,デュークモン,True,SR,6,bigweb,1500,1500,1500,0,0,1500,1500,0,0
+BT2-020,BT2-020,Gallantmon,デュークモン,False,SR,6,yuyutei,0,0,0,500,500,500,500,500,500
+BT2-020,BT2-020B,Gallantmon,デュークモン,True,SR,6,yuyutei,0,0,0,1980,1980,1980,1980,1980,2480
+BT2-021,BT2-021,Veemon,ブイモン,False,C,3,bigweb,30,30,30,0,0,30,30,30,30
+BT2-021,BT2-021,Veemon,ブイモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-022,BT2-022,Betamon,ベタモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT2-022,BT2-022,Betamon,ベタモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-023,BT2-023,Gomamon,ゴマモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT2-023,BT2-023,Gomamon,ゴマモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-024,BT2-024,Seadramon,シードラモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT2-024,BT2-024,Seadramon,シードラモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-025,BT2-025,Ikkakumon,イッカクモン,False,C,4,bigweb,30,30,30,0,0,30,30,30,30
+BT2-025,BT2-025,Ikkakumon,イッカクモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-026,BT2-026,Veedramon,ブイドラモン,False,U,4,bigweb,100,100,100,0,0,100,100,100,100
+BT2-026,BT2-026,Veedramon,ブイドラモン,False,U,4,yuyutei,0,0,0,100,100,100,100,100,100
+BT2-027,BT2-027,Zudomon,ズドモン,False,U,5,bigweb,30,30,30,0,0,30,30,30,30
+BT2-027,BT2-027,Zudomon,ズドモン,False,U,5,yuyutei,0,0,0,30,30,30,30,30,30
+BT2-028,BT2-028,AeroVeedramon,エアロブイドラモン,False,R,5,bigweb,120,120,120,0,0,120,120,120,120
+BT2-028,BT2-028,AeroVeedramon,エアロブイドラモン,False,R,5,yuyutei,0,0,0,150,150,150,150,150,150
+BT2-029,BT2-029,MegaSeadramon,メガシードラモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT2-029,BT2-029,MegaSeadramon,メガシードラモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-030,BT2-030,MetalSeadramon,メタルシードラモン,False,R,6,bigweb,80,80,80,0,0,80,80,80,80
+BT2-030,BT2-030B,MetalSeadramon,メタルシードラモン,True,R,6,bigweb,980,980,980,0,0,980,980,0,0
+BT2-030,BT2-030,MetalSeadramon,メタルシードラモン,False,R,6,yuyutei,0,0,0,100,100,100,100,100,100
+BT2-030,BT2-030B,MetalSeadramon,メタルシードラモン,True,R,6,yuyutei,0,0,0,980,980,980,980,980,980
+BT2-031,BT2-031,Vikemon,ヴァイクモン,False,U,6,bigweb,30,30,30,0,0,30,30,30,30
+BT2-031,BT2-031,Vikemon,ヴァイクモン,False,U,6,yuyutei,0,0,0,30,30,30,30,30,30
+BT2-032,BT2-032,UlforceVeedramon,アルフォースブイドラモン,False,SR,6,bigweb,480,480,400,0,0,500,0,500,500
+BT2-032,BT2-032B,UlforceVeedramon,アルフォースブイドラモン,True,SR,6,bigweb,2500,1980,1980,0,0,1980,1980,1980,0
+BT2-032,BT2-032,UlforceVeedramon,アルフォースブイドラモン,False,SR,6,yuyutei,0,0,0,580,580,580,500,500,500
+BT2-032,BT2-032B,UlforceVeedramon,アルフォースブイドラモン,True,SR,6,yuyutei,0,0,0,2480,2480,2480,2480,2480,2480
+BT2-033,BT2-033,Agumon,アグモン,False,C,3,bigweb,30,30,30,0,0,30,30,30,30
+BT2-033,BT2-033,Agumon,アグモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-034,BT2-034,Salamon,プロットモン,False,U,3,bigweb,100,150,150,0,0,120,120,120,120
+BT2-034,BT2-034,Salamon,プロットモン,False,U,3,yuyutei,0,0,0,100,100,100,100,200,200
+BT2-035,BT2-035,GeoGreymon,ジオグレイモン,False,C,4,bigweb,30,30,30,0,0,30,30,30,30
+BT2-035,BT2-035,GeoGreymon,ジオグレイモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-036,BT2-036,Gatomon,テイルモン,False,U,4,bigweb,50,50,50,0,0,50,50,50,50
+BT2-036,BT2-036,Gatomon,テイルモン,False,U,4,yuyutei,0,0,0,30,30,30,30,30,30
+BT2-037,BT2-037,Angewomon,エンジェウーモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT2-037,BT2-037,Angewomon,エンジェウーモン,False,C,5,yuyutei,0,0,0,50,50,50,50,50,50
+BT2-038,BT2-038,RizeGreymon,ライズグレイモン,False,R,5,bigweb,100,100,100,0,0,100,0,120,150
+BT2-038,BT2-038,RizeGreymon,ライズグレイモン,False,R,5,yuyutei,0,0,0,100,100,100,100,100,200
+BT2-039,BT2-039,Magnadramon,ホーリードラモン,False,U,6,bigweb,100,150,150,0,0,120,120,120,150
+BT2-039,BT2-039,Magnadramon,ホーリードラモン,False,U,6,yuyutei,0,0,0,50,50,50,50,50,50
+BT2-040,BT2-040,Ophanimon,オファニモン,False,R,6,bigweb,80,80,80,0,0,80,80,80,80
+BT2-040,BT2-040,Ophanimon,オファニモン,False,R,6,yuyutei,0,0,0,100,100,100,100,100,100
+BT2-041,BT2-041,ShineGreymon,シャイングレイモン,False,SR,6,bigweb,700,700,700,0,0,880,880,880,980
+BT2-041,BT2-041B,ShineGreymon,シャイングレイモン,True,SR,6,bigweb,2500,1980,1980,0,0,1980,0,1980,0
+BT2-041,BT2-041,ShineGreymon,シャイングレイモン,False,SR,6,yuyutei,0,0,0,1280,1280,1280,1280,1280,1280
+BT2-041,BT2-041B,ShineGreymon,シャイングレイモン,True,SR,6,yuyutei,0,0,0,2480,2480,2480,2980,2980,2980
+BT2-042,BT2-042,Argomon ,アルゴモン,False,C,3,bigweb,100,100,100,0,0,100,100,100,100
+BT2-042,BT2-042,Argomon ,アルゴモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-043,BT2-043,Agumon,アグモン,False,C,3,bigweb,100,100,100,0,0,100,100,100,100
+BT2-043,BT2-043,Agumon,アグモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-044,BT2-044,Tyrannomon,ティラノモン,False,C,4,bigweb,50,50,50,0,0,50,50,50,50
+BT2-044,BT2-044,Tyrannomon,ティラノモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-045,BT2-045,Argomon ,アルゴモン,False,U,4,bigweb,120,120,120,0,0,150,150,150,150
+BT2-045,BT2-045,Argomon ,アルゴモン,False,U,4,yuyutei,0,0,0,100,100,100,100,100,100
+BT2-046,BT2-046,MetalTyrannomon,メタルティラノモン,False,R,5,bigweb,80,80,80,0,0,80,80,80,80
+BT2-046,BT2-046,MetalTyrannomon,メタルティラノモン,False,R,5,yuyutei,0,0,0,100,100,100,100,100,100
+BT2-047,BT2-047,Argomon ,アルゴモン,False,C,5,bigweb,100,100,100,0,0,100,100,100,100
+BT2-047,BT2-047,Argomon ,アルゴモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-048,BT2-048,Cherrymon,ジュレイモン,False,U,5,bigweb,120,120,120,0,0,120,120,120,120
+BT2-048,BT2-048,Cherrymon,ジュレイモン,False,U,5,yuyutei,0,0,0,100,100,100,100,100,100
+BT2-049,BT2-049,Puppetmon,ピノッキモン,False,R,6,bigweb,150,0,280,0,0,200,200,220,220
+BT2-049,BT2-049B,Puppetmon,ピノッキモン,True,R,6,bigweb,1480,1480,1480,0,0,1500,1500,1500,0
+BT2-049,BT2-049,Puppetmon,ピノッキモン,False,R,6,yuyutei,0,0,0,200,200,200,200,200,300
+BT2-049,BT2-049B,Puppetmon,ピノッキモン,True,R,6,yuyutei,0,0,0,1280,1280,1280,1980,1980,1980
+BT2-050,BT2-050,Argomon ,アルゴモン,False,U,6,bigweb,100,100,100,0,0,100,100,100,100
+BT2-050,BT2-050,Argomon ,アルゴモン,False,U,6,yuyutei,0,0,0,50,50,50,50,50,50
+BT2-051,BT2-051,RustTyrannomon,ラストティラノモン,False,SR,6,bigweb,180,180,180,0,0,200,200,200,0
+BT2-051,BT2-051,RustTyrannomon,ラストティラノモン,False,SR,6,yuyutei,0,0,0,300,300,300,300,300,300
+BT2-052,BT2-052,Hagurumon,ハグルモン,False,C,3,bigweb,50,50,50,0,0,50,50,50,50
+BT2-052,BT2-052,Hagurumon,ハグルモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-053,BT2-053,Keramon,ケラモン,False,R,3,bigweb,100,100,100,0,0,100,100,100,100
+BT2-053,BT2-053,Keramon,ケラモン,False,R,3,yuyutei,0,0,0,100,100,100,100,100,100
+BT2-054,BT2-054,Gotsumon,ゴツモン,False,U,3,bigweb,200,150,150,0,0,150,0,180,180
+BT2-054,BT2-054,Gotsumon,ゴツモン,False,U,3,yuyutei,0,0,0,100,100,100,100,100,100
+BT2-055,BT2-055,ToyAgumon,トイアグモン,False,C,3,bigweb,100,100,100,0,0,100,100,100,100
+BT2-055,BT2-055,ToyAgumon,トイアグモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-056,BT2-056,Numemon,ヌメモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT2-056,BT2-056,Numemon,ヌメモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-057,BT2-057,Greymon,グレイモン,False,C,4,bigweb,80,80,80,0,0,80,80,80,80
+BT2-057,BT2-057,Greymon,グレイモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-058,BT2-058,Guardromon,ガードロモン,False,C,4,bigweb,50,50,50,0,0,50,50,50,50
+BT2-058,BT2-058,Guardromon,ガードロモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-059,BT2-059,Kurisarimon,クリサリモン,False,U,4,bigweb,80,80,50,0,0,50,50,50,50
+BT2-059,BT2-059,Kurisarimon,クリサリモン,False,U,4,yuyutei,0,0,0,50,50,50,50,50,50
+BT2-060,BT2-060,Megadramon,メガドラモン,False,U,5,bigweb,30,30,30,0,0,30,30,30,30
+BT2-060,BT2-060,Megadramon,メガドラモン,False,U,5,yuyutei,0,0,0,30,30,30,30,30,30
+BT2-061,BT2-061,Andromon,アンドロモン,False,C,5,bigweb,20,20,20,0,0,30,30,30,30
+BT2-061,BT2-061,Andromon,アンドロモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-062,BT2-062,Infermon,インフェルモン,False,R,5,bigweb,80,80,80,0,0,80,80,80,80
+BT2-062,BT2-062,Infermon,インフェルモン,False,R,5,yuyutei,0,0,0,100,100,100,100,100,100
+BT2-063,BT2-063,MetalGreymon,メタルグレイモン,False,C,5,bigweb,100,100,100,0,0,80,80,80,80
+BT2-063,BT2-063,MetalGreymon,メタルグレイモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-064,BT2-064,HiAndromon,ハイアンドロモン,False,U,6,bigweb,80,80,80,0,0,80,80,80,80
+BT2-064,BT2-064,HiAndromon,ハイアンドロモン,False,U,6,yuyutei,0,0,0,50,50,50,50,50,50
+BT2-065,BT2-065,WarGreymon,ウォーグレイモン,False,SR,6,bigweb,480,480,480,0,0,380,0,0,0
+BT2-065,BT2-065B,WarGreymon,ウォーグレイモン,True,SR,6,bigweb,1380,1280,1280,0,0,1500,1500,0,0
+BT2-065,BT2-065,WarGreymon,ウォーグレイモン,False,SR,6,yuyutei,0,0,0,500,500,500,500,500,500
+BT2-065,BT2-065B,WarGreymon,ウォーグレイモン,True,SR,6,yuyutei,0,0,0,1780,1780,1780,1980,1980,1980
+BT2-066,BT2-066,Machinedramon,ムゲンドラモン,False,SR,6,bigweb,480,480,480,0,0,380,380,380,380
+BT2-066,BT2-066B,Machinedramon,ムゲンドラモン,True,SR,6,bigweb,1200,1000,1000,0,0,1000,1000,0,0
+BT2-066,BT2-066,Machinedramon,ムゲンドラモン,False,SR,6,yuyutei,0,0,0,500,500,500,500,500,500
+BT2-066,BT2-066B,Machinedramon,ムゲンドラモン,True,SR,6,yuyutei,0,0,0,1480,1480,1480,1480,1480,1480
+BT2-067,BT2-067,DemiDevimon,ピコデビモン,False,U,3,bigweb,200,200,150,0,0,150,150,150,150
+BT2-067,BT2-067,DemiDevimon,ピコデビモン,False,U,3,yuyutei,0,0,0,50,50,50,50,50,50
+BT2-068,BT2-068,Impmon,インプモン,False,C,3,bigweb,100,100,100,0,0,80,80,80,80
+BT2-068,BT2-068,Impmon,インプモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-069,BT2-069,Gabumon,ガブモン,False,C,3,bigweb,80,80,80,0,0,80,80,80,80
+BT2-069,BT2-069,Gabumon,ガブモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-070,BT2-070,Tapirmon,バクモン,False,U,3,bigweb,280,280,280,0,0,280,280,0,300
+BT2-070,BT2-070,Tapirmon,バクモン,False,U,3,yuyutei,0,0,0,200,200,200,200,200,200
+BT2-071,BT2-071,Wizardmon,ウィザーモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT2-071,BT2-071,Wizardmon,ウィザーモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-072,BT2-072,Vilemon,イビルモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,50
+BT2-072,BT2-072,Vilemon,イビルモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-073,BT2-073,Garurumon,ガルルモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT2-073,BT2-073,Garurumon,ガルルモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-074,BT2-074,Devimon,デビモン,False,U,4,bigweb,300,0,300,0,0,350,350,0,350
+BT2-074,BT2-074,Devimon,デビモン,False,U,4,yuyutei,0,0,0,200,200,200,200,300,300
+BT2-075,BT2-075,Myotismon,ヴァンデモン,False,U,5,bigweb,100,100,80,0,0,50,50,50,50
+BT2-075,BT2-075,Myotismon,ヴァンデモン,False,U,5,yuyutei,0,0,0,50,50,50,50,50,50
+BT2-076,BT2-076,Pumpkinmon,パンプモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT2-076,BT2-076,Pumpkinmon,パンプモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-077,BT2-077,Kimeramon,キメラモン,False,R,5,bigweb,280,280,280,0,0,250,250,0,250
+BT2-077,BT2-077,Kimeramon,キメラモン,False,R,5,yuyutei,0,0,0,300,300,300,300,300,300
+BT2-078,BT2-078,WereGarurumon,ワーガルルモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT2-078,BT2-078,WereGarurumon,ワーガルルモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-079,BT2-079,VenomMyotismon,ヴェノムヴァンデモン,False,R,6,bigweb,50,50,50,0,0,50,50,50,50
+BT2-079,BT2-079,VenomMyotismon,ヴェノムヴァンデモン,False,R,6,yuyutei,0,0,0,100,100,100,100,100,100
+BT2-080,BT2-080,Piedmon,ピエモン,False,SR,6,bigweb,300,300,380,0,0,380,380,380,380
+BT2-080,BT2-080B,Piedmon,ピエモン,True,SR,6,bigweb,1200,1200,1000,0,0,1000,1000,0,0
+BT2-080,BT2-080,Piedmon,ピエモン,False,SR,6,yuyutei,0,0,0,500,500,500,500,500,500
+BT2-080,BT2-080B,Piedmon,ピエモン,True,SR,6,yuyutei,0,0,0,1280,1280,1280,1280,1280,1280
+BT2-081,BT2-081,MetalGarurumon,メタルガルルモン,False,SR,6,bigweb,80,80,80,0,0,80,0,0,0
+BT2-081,BT2-081B,MetalGarurumon,メタルガルルモン,True,SR,6,bigweb,780,780,780,0,0,980,980,0,0
+BT2-081,BT2-081,MetalGarurumon,メタルガルルモン,False,SR,6,yuyutei,0,0,0,300,300,300,300,300,300
+BT2-081,BT2-081B,MetalGarurumon,メタルガルルモン,True,SR,6,yuyutei,0,0,0,980,980,980,980,980,980
+BT2-082,BT2-082,Diaboromon,ディアボロモン,False,SR,6,bigweb,80,80,80,0,0,80,80,0,480
+BT2-082,BT2-082B,Diaboromon,ディアボロモン,True,SR,6,bigweb,780,780,780,0,0,680,680,0,0
+BT2-082,BT2-082,Diaboromon,ディアボロモン,False,SR,6,yuyutei,0,0,0,300,300,300,300,300,500
+BT2-082,BT2-082B,Diaboromon,ディアボロモン,True,SR,6,yuyutei,0,0,0,980,980,980,1280,1280,1480
+BT2-083,BT2-083,Millenniummon,ミレニアモン,False,SR,6,bigweb,1580,0,1800,0,0,1500,1500,1500,1500
+BT2-083,BT2-083,Millenniummon,ミレニアモン,False,SR,7,yuyutei,0,0,0,1480,1480,1480,1480,1480,1480
+BT2-084,BT2-084,Sora Takenouchi,武之内空,False,R,0,bigweb,50,50,50,0,0,50,50,50,50
+BT2-084,BT2-084B,Sora Takenouchi,武之内空,True,R,0,bigweb,80,80,100,0,0,100,100,0,0
+BT2-084,BT2-084,Sora Takenouchi,武之内空,False,R,0,yuyutei,0,0,0,100,100,100,100,100,100
+BT2-084,BT2-084B,Sora Takenouchi,武之内空,True,R,0,yuyutei,0,0,0,200,200,200,200,200,200
+BT2-085,BT2-085,Joe Kido,城戸丈,False,R,0,bigweb,50,50,50,0,0,50,50,50,50
+BT2-085,BT2-085B,Joe Kido,城戸丈,True,R,0,bigweb,80,80,80,0,0,80,80,0,0
+BT2-085,BT2-085,Joe Kido,城戸丈,False,R,0,yuyutei,0,0,0,100,100,100,100,100,100
+BT2-085,BT2-085B,Joe Kido,城戸丈,True,R,0,yuyutei,0,0,0,200,200,200,200,200,200
+BT2-086,BT2-086,Rina Shinomiya,四ノ宮リナ,False,R,0,bigweb,120,120,120,0,0,120,120,120,120
+BT2-086,BT2-086,Rina Shinomiya,四ノ宮リナ,False,R,0,yuyutei,0,0,0,100,100,100,100,100,100
+BT2-087,BT2-087,Hikari Yagami,八神ヒカリ,False,R,0,bigweb,80,80,80,0,0,80,80,80,80
+BT2-087,BT2-087B,Hikari Yagami,八神ヒカリ,True,R,0,bigweb,280,280,280,0,0,280,280,0,0
+BT2-087,BT2-087,Hikari Yagami,八神ヒカリ,False,R,0,yuyutei,0,0,0,100,100,100,100,100,100
+BT2-087,BT2-087B,Hikari Yagami,八神ヒカリ,True,R,0,yuyutei,0,0,0,400,400,400,400,400,400
+BT2-088,BT2-088,Taiga,タイガ,False,R,0,bigweb,80,80,80,0,0,80,80,80,80
+BT2-088,BT2-088,Taiga,タイガ,False,R,0,yuyutei,0,0,0,100,100,100,100,100,100
+BT2-089,BT2-089,Taichi Yagami,八神太一,False,R,0,bigweb,150,180,180,0,0,180,180,180,180
+BT2-089,BT2-089B,Taichi Yagami,八神太一,True,R,0,bigweb,250,250,250,0,0,250,0,0,0
+BT2-089,BT2-089,Taichi Yagami,八神太一,False,R,0,yuyutei,0,0,0,100,100,100,100,100,200
+BT2-089,BT2-089B,Taichi Yagami,八神太一,True,R,0,yuyutei,0,0,0,400,400,400,400,400,400
+BT2-090,BT2-090,Yamato Ishida,石田ヤマト,False,R,0,bigweb,150,150,150,0,0,180,180,180,180
+BT2-090,BT2-090B,Yamato Ishida,石田ヤマト,True,R,0,bigweb,300,300,300,0,0,300,0,0,0
+BT2-090,BT2-090,Yamato Ishida,石田ヤマト,False,R,0,yuyutei,0,0,0,100,100,100,100,100,200
+BT2-090,BT2-090B,Yamato Ishida,石田ヤマト,True,R,0,yuyutei,0,0,0,300,300,300,300,300,300
+BT2-091,BT2-091,Volcanic Flare,ヴォルケニック・フレア,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT2-091,BT2-091,Volcanic Flare,ヴォルケニック・フレア,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-092,BT2-092,Radiation Blade,ダブルエッジ,False,U,0,bigweb,30,30,30,0,0,30,30,30,30
+BT2-092,BT2-092,Radiation Blade,ダブルエッジ,False,U,0,yuyutei,0,0,0,30,30,30,30,30,30
+BT2-093,BT2-093,Shield of the Just,ファイナル・エリシオン,False,R,0,bigweb,80,80,80,0,0,80,80,80,80
+BT2-093,BT2-093,Shield of the Just,ファイナル・エリシオン,False,R,0,yuyutei,0,0,0,100,100,100,100,100,100
+BT2-094,BT2-094,Arctic Blizzard,アークティックブリザード,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT2-094,BT2-094,Arctic Blizzard,アークティックブリザード,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-095,BT2-095,River of Power,アルティメットストリーム,False,U,0,bigweb,30,30,30,0,0,30,30,30,30
+BT2-095,BT2-095,River of Power,アルティメットストリーム,False,U,0,yuyutei,0,0,0,30,30,30,30,30,30
+BT2-096,BT2-096,The Ray of Victory,シャイニングVフォース,False,U,0,bigweb,50,50,50,0,0,50,50,50,50
+BT2-096,BT2-096,The Ray of Victory,シャイニングVフォース,False,U,0,yuyutei,0,0,0,30,30,30,30,30,30
+BT2-097,BT2-097,Lightning Paw,ネコパンチ,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT2-097,BT2-097,Lightning Paw,ネコパンチ,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-098,BT2-098,Eden's Javelin,エデンズジャベリン,False,U,0,bigweb,80,80,80,0,0,80,80,80,80
+BT2-098,BT2-098,Eden's Javelin,エデンズジャベリン,False,U,0,yuyutei,0,0,0,30,30,30,30,30,30
+BT2-099,BT2-099,Glorious Burst,グロリアスバースト,False,R,0,bigweb,80,80,80,0,0,80,80,80,80
+BT2-099,BT2-099,Glorious Burst,グロリアスバースト,False,R,0,yuyutei,0,0,0,100,100,100,100,100,100
+BT2-100,BT2-100,Puppet Pummel,ブリットハンマー,False,U,0,bigweb,30,30,30,0,0,30,30,30,30
+BT2-100,BT2-100,Puppet Pummel,ブリットハンマー,False,U,0,bigweb,30,30,30,0,0,30,30,30,30
+BT2-100,BT2-100,Puppet Pummel,ブリットハンマー,False,U,0,yuyutei,0,0,0,30,30,30,30,30,30
+BT2-101,BT2-101,Cherry Blast,チェリーボム,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT2-101,BT2-101,Cherry Blast,チェリーボム,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-102,BT2-102,Terror's Cluster,テラーズクラスター,False,R,0,bigweb,50,50,50,0,0,50,50,50,50
+BT2-102,BT2-102,Terror's Cluster,テラーズクラスター,False,R,0,yuyutei,0,0,0,100,100,100,100,100,100
+BT2-103,BT2-103,Lightning Blade,スパイラルソード,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT2-103,BT2-103,Lightning Blade,スパイラルソード,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-104,BT2-104,Atomic Ray,アトミック・レイ,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT2-104,BT2-104,Atomic Ray,アトミック・レイ,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-105,BT2-105,Spider Shooter,ヘルズグレネード,False,U,0,bigweb,80,80,80,0,0,80,80,80,80
+BT2-105,BT2-105,Spider Shooter,ヘルズグレネード,False,U,0,yuyutei,0,0,0,50,50,50,50,50,50
+BT2-106,BT2-106,Giga Cannon,∞キャノン,False,R,0,bigweb,80,80,80,0,0,80,80,80,80
+BT2-106,BT2-106,Giga Cannon,∞キャノン,False,R,0,yuyutei,0,0,0,100,100,100,100,100,100
+BT2-107,BT2-107,Darkness Claw,ダークネスクロウ,False,U,0,bigweb,100,100,100,0,0,100,100,100,100
+BT2-107,BT2-107,Darkness Claw,ダークネスクロウ,False,U,0,yuyutei,0,0,0,50,50,50,50,50,50
+BT2-108,BT2-108,Grisly Wing,ナイトレイド,False,C,0,bigweb,60,60,60,0,0,60,60,60,60
+BT2-108,BT2-108,Grisly Wing,ナイトレイド,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-109,BT2-109,Heat Viper,ヒート・バイパー,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT2-109,BT2-109,Heat Viper,ヒート・バイパー,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT2-110,BT2-110,Trump Sword,トランプ・ソード,False,R,0,bigweb,380,380,300,0,0,250,250,250,250
+BT2-110,BT2-110,Trump Sword,トランプ・ソード,False,R,0,bigweb,380,380,300,0,0,250,250,250,250
+BT2-110,BT2-110,Trump Sword,トランプ・ソード,False,R,0,yuyutei,0,0,0,300,300,300,300,300,300
+BT2-111,BT2-111,Beelzemon,ベルゼブモン,False,SEC,6,bigweb,3980,3500,3500,0,0,3000,3000,3000,3000
+BT2-111,BT2-111B,Beelzemon,ベルゼブモン,True,SEC,6,bigweb,4500,0,4500,0,0,4500,4500,4500,5000
+BT2-111,BT2-111,Beelzemon,ベルゼブモン,False,SEC,6,yuyutei,0,0,0,3480,3480,3480,3480,3480,3480
+BT2-111,BT2-111B,Beelzemon,ベルゼブモン,True,SEC,6,yuyutei,0,0,0,5980,5980,5980,5980,5980,5980
+BT2-112,BT2-112,BlackWarGreymon,ブラックウォーグレイモン,False,SEC,6,bigweb,800,800,800,0,0,980,980,980,0
+BT2-112,BT2-112B,BlackWarGreymon,ブラックウォーグレイモン,True,SEC,6,bigweb,2580,2580,2580,0,0,2580,2580,2580,2580
+BT2-112,BT2-112,BlackWarGreymon,ブラックウォーグレイモン,False,SEC,6,yuyutei,0,0,0,1280,1280,1280,1280,1280,1280
+BT2-112,BT2-112B,BlackWarGreymon,ブラックウォーグレイモン,True,SEC,6,yuyutei,0,0,0,3980,3980,3980,3980,3980,3980
+BT3-001,BT3-001,Poromon,ポロモン,False,U,2,bigweb,30,30,30,0,0,30,30,30,30
+BT3-001,BT3-001,Poromon,ポロモン,False,U,2,yuyutei,0,0,0,50,50,50,50,50,50
+BT3-002,BT3-002,DemiVeemon,チビモン,False,U,2,bigweb,50,50,50,0,0,50,0,80,80
+BT3-002,BT3-002,DemiVeemon,チビモン,False,U,2,yuyutei,0,0,0,50,50,50,50,50,50
+BT3-003,BT3-003,Upamon,ウパモン,False,U,2,bigweb,30,30,30,0,0,80,80,80,80
+BT3-003,BT3-003,Upamon,ウパモン,False,U,2,yuyutei,0,0,0,50,50,50,50,50,50
+BT3-004,BT3-004,Minomon,ミノモン,False,U,2,bigweb,50,50,50,0,0,50,50,50,50
+BT3-004,BT3-004,Minomon,ミノモン,False,U,2,yuyutei,0,0,0,50,50,50,50,50,50
+BT3-005,BT3-005,Kakkinmon,カッキンモン,False,U,2,bigweb,30,30,30,0,0,30,30,30,30
+BT3-005,BT3-005,Kakkinmon,カッキンモン,False,U,2,yuyutei,0,0,0,50,50,50,50,50,50
+BT3-006,BT3-006,DemiMeramon,プチメラモン,False,U,2,bigweb,150,150,150,0,0,150,150,150,150
+BT3-006,BT3-006,DemiMeramon,プチメラモン,False,U,2,yuyutei,0,0,0,50,50,50,200,200,200
+BT3-007,BT3-007,Agumon,アグモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT3-007,BT3-007,Agumon,アグモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-008,BT3-008,Zubamon,ズバモン,False,U,3,bigweb,80,80,80,0,0,80,80,80,80
+BT3-008,BT3-008,Zubamon,ズバモン,False,U,3,yuyutei,0,0,0,50,50,50,50,50,50
+BT3-009,BT3-009,Hawkmon,ホークモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT3-009,BT3-009,Hawkmon,ホークモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-010,BT3-010,ZubaEagermon,ズバイガーモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT3-010,BT3-010,ZubaEagermon,ズバイガーモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-011,BT3-011,Greymon,グレイモン,False,U,4,bigweb,50,50,50,0,0,50,50,50,50
+BT3-011,BT3-011B,Greymon,グレイモン,True,U,4,bigweb,80,80,80,0,0,130,130,0,200
+BT3-011,BT3-011,Greymon,グレイモン,False,U,4,yuyutei,0,0,0,50,50,50,50,50,50
+BT3-011,BT3-011B,Greymon,グレイモン,True,U,4,yuyutei,0,0,0,150,150,150,150,150,150
+BT3-012,BT3-012,Aquilamon,アクィラモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT3-012,BT3-012,Aquilamon,アクィラモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-013,BT3-013,Duramon,デュラモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT3-013,BT3-013,Duramon,デュラモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-014,BT3-014,Silphymon,シルフィーモン,False,R,5,bigweb,50,50,50,0,0,50,50,50,50
+BT3-014,BT3-014,Silphymon,シルフィーモン,False,R,5,yuyutei,0,0,0,100,100,100,100,100,100
+BT3-015,BT3-015,MetalGreymon,メタルグレイモン,False,R,5,bigweb,50,50,50,0,0,50,50,50,50
+BT3-015,BT3-015,MetalGreymon,メタルグレイモン,False,R,5,yuyutei,0,0,0,100,100,100,100,100,100
+BT3-016,BT3-016,Durandamon,デュランダモン,False,R,6,bigweb,100,100,80,0,0,80,80,80,80
+BT3-016,BT3-016,Durandamon,デュランダモン,False,R,6,yuyutei,0,0,0,100,100,100,100,100,100
+BT3-017,BT3-017,Valkyrimon,ヴァルキリモン,False,U,6,bigweb,30,30,30,0,0,30,30,30,30
+BT3-017,BT3-017,Valkyrimon,ヴァルキリモン,False,U,6,yuyutei,0,0,0,50,50,50,50,50,50
+BT3-018,BT3-018,BlitzGreymon,ブリッツグレイモン,False,SR,6,bigweb,500,500,0,0,0,580,580,580,0
+BT3-018,BT3-018B,BlitzGreymon,ブリッツグレイモン,True,SR,6,bigweb,1500,1500,1280,0,0,1000,1000,0,0
+BT3-018,BT3-018,BlitzGreymon,ブリッツグレイモン,False,SR,6,yuyutei,0,0,0,580,580,580,580,580,680
+BT3-018,BT3-018B,BlitzGreymon,ブリッツグレイモン,True,SR,6,yuyutei,0,0,0,1480,1480,1480,1480,1480,1480
+BT3-019,BT3-019,RagnaLoardmon,ラグナロードモン,False,SR,6,bigweb,980,980,980,0,0,800,800,800,800
+BT3-019,BT3-019B,RagnaLoardmon,ラグナロードモン,True,SR,6,bigweb,1980,1980,1800,0,0,1800,1800,1800,0
+BT3-019,BT3-019,RagnaLoardmon,ラグナロードモン,False,SR,7,yuyutei,0,0,0,980,980,980,980,980,980
+BT3-019,BT3-019B,RagnaLoardmon,ラグナロードモン,True,SR,7,yuyutei,0,0,0,1980,1980,1980,1980,1980,1980
+BT3-020,BT3-020,Patamon,パタモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT3-020,BT3-020,Patamon,パタモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-021,BT3-021,Veemon,ブイモン,False,R,3,bigweb,180,150,120,0,0,130,0,0,200
+BT3-021,BT3-021,Veemon,ブイモン,False,R,3,yuyutei,0,0,0,200,200,200,200,300,300
+BT3-022,BT3-022,Penguinmon,ペンモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT3-022,BT3-022,Penguinmon,ペンモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-023,BT3-023,Angemon,エンジェモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT3-023,BT3-023,Angemon,エンジェモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-024,BT3-024,Airdramon,エアドラモン,False,U,4,bigweb,50,50,50,0,0,50,50,50,50
+BT3-024,BT3-024B,Airdramon,エアドラモン,True,U,4,bigweb,80,80,80,0,0,120,120,0,200
+BT3-024,BT3-024,Airdramon,エアドラモン,False,U,4,yuyutei,0,0,0,50,50,50,50,50,50
+BT3-024,BT3-024B,Airdramon,エアドラモン,True,U,4,yuyutei,0,0,0,150,150,150,150,150,150
+BT3-025,BT3-025,ExVeemon,エクスブイモン,False,R,4,bigweb,150,150,100,0,0,100,100,100,100
+BT3-025,BT3-025,ExVeemon,エクスブイモン,False,R,4,yuyutei,0,0,0,200,200,200,200,200,200
+BT3-026,BT3-026,MagnaAngemon,ホーリーエンジェモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT3-026,BT3-026,MagnaAngemon,ホーリーエンジェモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-027,BT3-027,Bastemon,パイルドラモン,False,R,5,bigweb,120,120,120,0,0,100,100,100,100
+BT3-027,BT3-027,Bastemon,パイルドラモン,False,R,5,yuyutei,0,0,0,100,100,100,100,100,100
+BT3-028,BT3-028,Paildramon,バステモン,False,U,5,bigweb,30,30,30,0,0,30,0,50,50
+BT3-028,BT3-028,Paildramon,バステモン,False,U,5,yuyutei,0,0,0,100,100,100,100,100,100
+BT3-029,BT3-029,Goldramon,ゴッドドラモン,False,U,6,bigweb,30,30,30,0,0,30,30,30,30
+BT3-029,BT3-029,Goldramon,ゴッドドラモン,False,U,6,yuyutei,0,0,0,50,50,50,50,50,50
+BT3-030,BT3-030,Leopardmon,ドゥフトモン,False,SR,6,bigweb,50,50,50,0,0,50,50,0,0
+BT3-030,BT3-030B,Leopardmon,ドゥフトモン,True,SR,6,bigweb,350,350,350,0,0,300,300,0,0
+BT3-030,BT3-030,Leopardmon,ドゥフトモン,False,SR,6,yuyutei,0,0,0,200,200,200,200,200,200
+BT3-030,BT3-030B,Leopardmon,ドゥフトモン,True,SR,6,yuyutei,0,0,0,580,580,580,580,580,580
+BT3-031,BT3-031,Imperialdramon Dragon Mode,インペリアルドラモン：ドラゴンモード,False,SR,6,bigweb,550,500,500,0,0,500,500,500,500
+BT3-031,BT3-031B,Imperialdramon Dragon Mode,インペリアルドラモン：ドラゴンモード,True,SR,6,bigweb,1480,1480,1480,0,0,1480,1480,0,0
+BT3-031,BT3-031,Imperialdramon Dragon Mode,インペリアルドラモン：ドラゴンモード,False,SR,6,yuyutei,0,0,0,780,780,780,500,500,500
+BT3-032,BT3-032,Armadillomon,アルマジモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT3-032,BT3-032,Armadillomon,アルマジモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-033,BT3-033,Salamon,プロットモン,False,R,3,bigweb,80,80,80,0,0,80,80,80,80
+BT3-033,BT3-033,Salamon,プロットモン,False,R,3,yuyutei,0,0,0,100,100,100,100,100,100
+BT3-034,BT3-034,Lopmon,ロップモン,False,U,3,bigweb,50,50,50,0,0,60,60,60,60
+BT3-034,BT3-034,Lopmon,ロップモン,False,U,3,yuyutei,0,0,0,50,50,50,50,50,50
+BT3-035,BT3-035,Gatomon,テイルモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT3-035,BT3-035,Gatomon,テイルモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-036,BT3-036,Ankylomon,アンキロモン,False,U,4,bigweb,50,50,50,0,0,50,50,50,50
+BT3-036,BT3-036B,Ankylomon,アンキロモン,True,U,4,bigweb,100,100,100,0,0,200,0,0,250
+BT3-036,BT3-036,Ankylomon,アンキロモン,False,U,4,yuyutei,0,0,0,50,50,50,50,50,50
+BT3-036,BT3-036B,Ankylomon,アンキロモン,True,U,4,yuyutei,0,0,0,150,150,150,150,150,150
+BT3-037,BT3-037,Turuiemon,トゥルイエモン,False,C,4,bigweb,20,20,30,0,0,30,30,30,30
+BT3-037,BT3-037,Turuiemon,トゥルイエモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-038,BT3-038,Antylamon,アンティラモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT3-038,BT3-038,Antylamon,アンティラモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-039,BT3-039,Angewomon,エンジェウーモン,False,R,5,bigweb,50,50,50,0,0,50,50,80,80
+BT3-039,BT3-039,Angewomon,エンジェウーモン,False,R,5,yuyutei,0,0,0,100,100,100,100,100,100
+BT3-040,BT3-040,Shakkoumon,シャッコウモン,False,R,5,bigweb,80,80,80,0,0,80,80,80,80
+BT3-040,BT3-040,Shakkoumon,シャッコウモン,False,R,5,yuyutei,0,0,0,100,100,100,100,100,100
+BT3-041,BT3-041,Cherubimon,ケルビモン,False,R,6,bigweb,50,50,50,0,0,50,50,50,50
+BT3-041,BT3-041,Cherubimon,ケルビモン,False,R,6,yuyutei,0,0,0,100,100,100,100,100,100
+BT3-042,BT3-042,ClavisAngemon,クラヴィスエンジェモン,False,U,6,bigweb,30,30,30,0,0,30,30,30,30
+BT3-042,BT3-042,ClavisAngemon,クラヴィスエンジェモン,False,U,6,yuyutei,0,0,0,50,50,50,50,50,50
+BT3-043,BT3-043,Kentaurosmon,スレイプモン,False,SR,6,bigweb,80,100,120,0,0,80,80,0,0
+BT3-043,BT3-043B,Kentaurosmon,スレイプモン,True,SR,6,bigweb,480,480,480,0,0,480,0,0,0
+BT3-043,BT3-043,Kentaurosmon,スレイプモン,False,SR,6,yuyutei,0,0,0,200,200,200,200,200,200
+BT3-043,BT3-043B,Kentaurosmon,スレイプモン,True,SR,6,yuyutei,0,0,0,780,780,780,780,780,780
+BT3-044,BT3-044,Aruraumon,アルラウモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT3-044,BT3-044,Aruraumon,アルラウモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-045,BT3-045,Kunemon,クネモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT3-045,BT3-045,Kunemon,クネモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-046,BT3-046,Terriermon,テリアモン,False,U,3,bigweb,120,120,120,0,0,120,120,120,120
+BT3-046,BT3-046,Terriermon,テリアモン,False,U,3,yuyutei,0,0,0,150,150,150,150,150,150
+BT3-047,BT3-047,Wormmon,ワームモン,False,R,3,bigweb,100,100,80,0,0,80,80,80,80
+BT3-047,BT3-047,Wormmon,ワームモン,False,R,3,yuyutei,0,0,0,100,100,100,100,100,100
+BT3-048,BT3-048,Gargomon,ガルゴモン,False,C,4,bigweb,50,50,50,0,0,50,50,50,50
+BT3-048,BT3-048,Gargomon,ガルゴモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-049,BT3-049,Flymon,フライモン,False,U,4,bigweb,50,50,50,0,0,50,50,50,50
+BT3-049,BT3-049B,Flymon,フライモン,True,U,4,bigweb,60,60,60,0,0,60,60,0,150
+BT3-049,BT3-049,Flymon,フライモン,False,U,4,yuyutei,0,0,0,50,50,50,50,50,50
+BT3-049,BT3-049B,Flymon,フライモン,True,U,4,yuyutei,0,0,0,150,150,150,150,150,150
+BT3-050,BT3-050,Stingmon,スティングモン,False,R,4,bigweb,100,100,80,0,0,80,80,80,80
+BT3-050,BT3-050,Stingmon,スティングモン,False,R,4,yuyutei,0,0,0,200,200,200,200,200,200
+BT3-051,BT3-051,Dokugumon,ドクグモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT3-051,BT3-051,Dokugumon,ドクグモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-052,BT3-052,Rapidmon,ラピッドモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT3-052,BT3-052,Rapidmon,ラピッドモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-053,BT3-053,JewelBeemon,ジュエルビーモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT3-053,BT3-053,JewelBeemon,ジュエルビーモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-054,BT3-054,Blossomon,ブロッサモン,False,C,5,bigweb,50,50,50,0,0,50,50,50,50
+BT3-054,BT3-054,Blossomon,ブロッサモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-055,BT3-055,Dinobeemon,ディノビーモン,False,R,5,bigweb,80,80,80,0,0,80,80,80,80
+BT3-055,BT3-055,Dinobeemon,ディノビーモン,False,R,5,yuyutei,0,0,0,100,100,100,100,100,100
+BT3-056,BT3-056,Ceresmon,ケレスモン,False,SR,6,bigweb,500,450,450,0,0,300,300,300,0
+BT3-056,BT3-056B,Ceresmon,ケレスモン,True,SR,6,bigweb,1980,1980,1980,0,0,1500,1500,1500,0
+BT3-056,BT3-056,Ceresmon,ケレスモン,False,SR,6,yuyutei,0,0,0,680,680,680,580,580,580
+BT3-056,BT3-056B,Ceresmon,ケレスモン,True,SR,6,yuyutei,0,0,0,1780,1780,1780,1780,1780,1780
+BT3-057,BT3-057,MegaGargomon,セントガルゴモン,False,R,6,bigweb,100,100,80,0,0,80,80,80,80
+BT3-057,BT3-057,MegaGargomon,セントガルゴモン,False,R,6,yuyutei,0,0,0,100,100,100,100,100,100
+BT3-058,BT3-058,BanchoStingmon,バンチョースティングモン,False,U,6,bigweb,80,80,80,0,0,80,80,80,80
+BT3-058,BT3-058,BanchoStingmon,バンチョースティングモン,False,U,6,yuyutei,0,0,0,50,50,50,50,50,50
+BT3-059,BT3-059,Commandramon,コマンドラモン,False,C,3,bigweb,80,80,80,0,0,80,80,80,80
+BT3-059,BT3-059,Commandramon,コマンドラモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-060,BT3-060,Psychemon,サイケモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT3-060,BT3-060,Psychemon,サイケモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-061,BT3-061,Chuumon,チューモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT3-061,BT3-061,Chuumon,チューモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-062,BT3-062,Ludomon,ルドモン,False,U,3,bigweb,80,80,80,0,0,80,80,80,80
+BT3-062,BT3-062,Ludomon,ルドモン,False,U,3,yuyutei,0,0,0,50,50,50,50,50,50
+BT3-063,BT3-063,Sukamon,スカモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT3-063,BT3-063,Sukamon,スカモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-064,BT3-064,TiaLudomon,ティアルドモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT3-064,BT3-064,TiaLudomon,ティアルドモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-065,BT3-065,Gururumon,グルルモン,False,U,4,bigweb,50,50,50,0,0,50,50,50,50
+BT3-065,BT3-065B,Gururumon,グルルモン,True,U,4,bigweb,60,60,60,0,0,60,60,0,150
+BT3-065,BT3-065,Gururumon,グルルモン,False,U,4,yuyutei,0,0,0,50,50,50,50,50,50
+BT3-065,BT3-065B,Gururumon,グルルモン,True,U,4,yuyutei,0,0,0,150,150,150,150,150,150
+BT3-066,BT3-066,Clockmon,クロックモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT3-066,BT3-066,Clockmon,クロックモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-067,BT3-067,Tankmon,タンクモン,False,C,4,bigweb,50,50,50,0,0,50,50,50,50
+BT3-067,BT3-067,Tankmon,タンクモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-068,BT3-068,Giromon,ギロモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT3-068,BT3-068,Giromon,ギロモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-069,BT3-069,RaijiLudomon,ライジルドモン,False,C,5,bigweb,50,50,50,0,0,50,50,50,50
+BT3-069,BT3-069,RaijiLudomon,ライジルドモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-070,BT3-070,Etemon,エテモン,False,R,5,bigweb,50,50,50,0,0,50,50,50,50
+BT3-070,BT3-070,Etemon,エテモン,False,R,5,yuyutei,0,0,0,100,100,100,100,100,100
+BT3-071,BT3-071,MetalMamemon,メタルマメモン,False,R,5,bigweb,50,50,50,0,0,50,50,50,50
+BT3-071,BT3-071,MetalMamemon,メタルマメモン,False,R,5,yuyutei,0,0,0,100,100,100,100,100,100
+BT3-072,BT3-072,BryweLudramon,ブリウエルドラモン,False,R,6,bigweb,100,100,100,0,0,100,100,100,100
+BT3-072,BT3-072,BryweLudramon,ブリウエルドラモン,False,R,6,yuyutei,0,0,0,100,100,100,100,100,100
+BT3-073,BT3-073,CresGarurumon,クーレスガルルモン,False,SR,6,bigweb,150,150,120,0,0,120,120,0,0
+BT3-073,BT3-073B,CresGarurumon,クーレスガルルモン,True,SR,6,bigweb,580,580,580,0,0,500,0,0,0
+BT3-073,BT3-073,CresGarurumon,クーレスガルルモン,False,SR,6,yuyutei,0,0,0,300,300,300,200,200,200
+BT3-073,BT3-073B,CresGarurumon,クーレスガルルモン,True,SR,6,yuyutei,0,0,0,780,780,780,780,780,780
+BT3-074,BT3-074,MetalEtemon,メタルエテモン,False,U,6,bigweb,30,30,30,0,0,30,30,30,30
+BT3-074,BT3-074,MetalEtemon,メタルエテモン,False,U,6,yuyutei,0,0,0,50,50,50,50,50,50
+BT3-075,BT3-075,Craniamon,クレニアムモン,False,SR,6,bigweb,200,250,250,0,0,250,0,0,0
+BT3-075,BT3-075B,Craniamon,クレニアムモン,True,SR,6,bigweb,1000,1000,1000,0,0,1000,1000,0,0
+BT3-075,BT3-075,Craniamon,クレニアムモン,False,SR,6,yuyutei,0,0,0,400,400,400,300,300,300
+BT3-075,BT3-075B,Craniamon,クレニアムモン,True,SR,6,yuyutei,0,0,0,980,980,980,980,980,980
+BT3-076,BT3-076,Candlemon,キャンドモン,False,C,3,bigweb,60,60,60,0,0,60,60,60,60
+BT3-076,BT3-076,Candlemon,キャンドモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-077,BT3-077,Gazimon,ガジモン,False,C,3,bigweb,50,50,50,0,0,50,50,50,50
+BT3-077,BT3-077,Gazimon,ガジモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-078,BT3-078,Shamanmon,シャーマモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT3-078,BT3-078,Shamanmon,シャーマモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-079,BT3-079,Tsukaimon,ツカイモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT3-079,BT3-079,Tsukaimon,ツカイモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-080,BT3-080,Saberdramon,セーバードラモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT3-080,BT3-080,Saberdramon,セーバードラモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-081,BT3-081,Devidramon,デビドラモン,False,U,4,bigweb,30,30,30,0,0,30,30,30,30
+BT3-081,BT3-081,Devidramon,デビドラモン,False,U,4,yuyutei,0,0,0,50,50,50,50,50,50
+BT3-082,BT3-082,BlackGatomon,ブラックテイルモン,False,U,4,bigweb,50,50,50,0,0,50,50,50,50
+BT3-082,BT3-082B,BlackGatomon,ブラックテイルモン,True,U,4,bigweb,80,80,80,0,0,80,0,0,150
+BT3-082,BT3-082,BlackGatomon,ブラックテイルモン,False,U,4,yuyutei,0,0,0,50,50,50,50,50,50
+BT3-082,BT3-082B,BlackGatomon,ブラックテイルモン,True,U,4,yuyutei,0,0,0,150,150,150,150,150,150
+BT3-083,BT3-083,Meramon,メラモン,False,C,4,bigweb,50,50,50,0,0,60,60,60,60
+BT3-083,BT3-083,Meramon,メラモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-084,BT3-084,Raremon,レアモン,False,R,4,bigweb,50,50,50,0,0,50,50,50,50
+BT3-084,BT3-084,Raremon,レアモン,False,R,4,yuyutei,0,0,0,100,100,100,100,100,100
+BT3-085,BT3-085,SkullMeramon,デスメラモン,False,C,5,bigweb,50,50,50,0,0,50,50,50,50
+BT3-085,BT3-085,SkullMeramon,デスメラモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-086,BT3-086,Arukenimon,アルケニモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT3-086,BT3-086,Arukenimon,アルケニモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-087,BT3-087,Mummymon,マミーモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT3-087,BT3-087,Mummymon,マミーモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-088,BT3-088,LadyDevimon,レディーデビモン,False,R,5,bigweb,100,100,100,0,0,120,120,120,120
+BT3-088,BT3-088,LadyDevimon,レディーデビモン,False,R,5,yuyutei,0,0,0,200,200,200,200,200,200
+BT3-089,BT3-089,Boltmon,ボルトモン,False,U,6,bigweb,30,30,30,0,0,30,30,30,30
+BT3-089,BT3-089,Boltmon,ボルトモン,False,U,6,yuyutei,0,0,0,50,50,50,50,50,50
+BT3-090,BT3-090,Mastemon,マスティモン,False,SR,6,bigweb,400,400,400,0,0,350,350,350,0
+BT3-090,BT3-090B,Mastemon,マスティモン,True,SR,6,bigweb,1200,1200,1200,0,0,1500,0,0,0
+BT3-090,BT3-090,Mastemon,マスティモン,False,SR,6,yuyutei,0,0,0,400,400,400,400,400,400
+BT3-090,BT3-090B,Mastemon,マスティモン,True,SR,6,yuyutei,0,0,0,980,980,980,1280,1280,1280
+BT3-091,BT3-091,Lilithmon,リリスモン,False,SR,6,bigweb,500,500,500,0,0,550,550,550,550
+BT3-091,BT3-091B,Lilithmon,リリスモン,True,SR,6,bigweb,1780,1780,1780,0,0,1980,1980,1980,0
+BT3-091,BT3-091,Lilithmon,リリスモン,False,SR,6,yuyutei,0,0,0,500,500,500,500,500,580
+BT3-091,BT3-091B,Lilithmon,リリスモン,True,SR,6,yuyutei,0,0,0,2480,2480,2480,2480,2480,2480
+BT3-092,BT3-092,MaloMyotismon,ベリアルヴァンデモン,False,R,6,bigweb,50,50,50,0,0,50,50,50,50
+BT3-092,BT3-092,MaloMyotismon,ベリアルヴァンデモン,False,R,6,yuyutei,0,0,0,100,100,100,100,100,100
+BT3-093,BT3-093,Daisuke Motomiya,本宮大輔,False,R,0,bigweb,50,50,80,0,0,100,0,180,180
+BT3-093,BT3-093,Daisuke Motomiya,本宮大輔,False,R,0,yuyutei,0,0,0,200,200,200,200,200,200
+BT3-094,BT3-094,Ken Ichijouji,一乗寺賢,False,R,0,bigweb,80,80,80,0,0,80,80,80,80
+BT3-094,BT3-094,Ken Ichijouji,一乗寺賢,False,R,0,yuyutei,0,0,0,100,100,100,100,100,100
+BT3-095,BT3-095,Joe Kido,城戸丈,False,R,0,bigweb,100,100,80,0,0,80,80,80,80
+BT3-095,BT3-095,Joe Kido,城戸丈,False,R,0,yuyutei,0,0,0,100,100,100,100,100,100
+BT3-096,BT3-096,Mimi Tachikawa,太刀川ミミ,False,R,0,bigweb,100,100,100,0,0,100,100,100,100
+BT3-096,BT3-096,Mimi Tachikawa,太刀川ミミ,False,R,0,yuyutei,0,0,0,100,100,100,100,100,200
+BT3-097,BT3-097,A Delicate Plan,緻密な戦術,False,U,0,bigweb,30,30,30,0,0,30,30,30,30
+BT3-097,BT3-097,A Delicate Plan,緻密な戦術,False,U,0,yuyutei,0,0,0,50,50,50,50,50,50
+BT3-098,BT3-098,Plasma Stake,プラズマステーク,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT3-098,BT3-098,Plasma Stake,プラズマステーク,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-099,BT3-099,We Have to Stop Fighting!,争いはやめましょう,False,U,0,bigweb,80,80,80,0,0,80,80,80,80
+BT3-099,BT3-099,We Have to Stop Fighting!,争いはやめましょう,False,U,0,yuyutei,0,0,0,50,50,50,50,50,50
+BT3-100,BT3-100,Death Parade Blaster,デスペラードブラスター,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT3-100,BT3-100,Death Parade Blaster,デスペラードブラスター,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT3-100,BT3-100,Death Parade Blaster,デスペラードブラスター,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-101,BT3-101,Bifrost,ビフロスト,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT3-101,BT3-101,Bifrost,ビフロスト,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-102,BT3-102,Code Cracking,クラッカー！！,False,U,0,bigweb,30,30,30,0,0,30,30,30,30
+BT3-102,BT3-102,Code Cracking,クラッカー！！,False,U,0,yuyutei,0,0,0,50,50,50,50,50,50
+BT3-103,BT3-103,Hidden Potential Discovered!,秘めたる力の発現！！,False,U,0,bigweb,200,200,200,0,0,250,250,280,300
+BT3-103,BT3-103,Hidden Potential Discovered!,秘めたる力の発現！！,False,U,0,yuyutei,0,0,0,300,300,300,300,300,200
+BT3-104,BT3-104,Positron Laser,ポジトロンレーザー,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT3-104,BT3-104,Positron Laser,ポジトロンレーザー,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-105,BT3-105,Breath of the Gods,ゴッドブレス,False,R,0,bigweb,50,50,50,0,0,50,50,50,50
+BT3-105,BT3-105,Breath of the Gods,ゴッドブレス,False,R,0,yuyutei,0,0,0,100,100,100,100,100,100
+BT3-106,BT3-106,Beast Cyclone,獣狼大回転,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT3-106,BT3-106,Beast Cyclone,獣狼大回転,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-107,BT3-107,Looking Back on the Good Times,あの頃はよかった,False,U,0,bigweb,80,80,80,0,0,80,80,80,80
+BT3-107,BT3-107,Looking Back on the Good Times,あの頃はよかった,False,U,0,yuyutei,0,0,0,50,50,50,50,50,50
+BT3-108,BT3-108,Dark Despair,ダークディスパイア,False,R,0,bigweb,50,50,50,0,0,50,50,50,50
+BT3-108,BT3-108,Dark Despair,ダークディスパイア,False,R,0,yuyutei,0,0,0,100,100,100,100,100,100
+BT3-109,BT3-109,Back for Revenge!,リターンマッチだ！,False,U,0,bigweb,80,80,80,0,0,80,80,80,80
+BT3-109,BT3-109,Back for Revenge!,リターンマッチだ！,False,U,0,yuyutei,0,0,0,50,50,50,50,50,50
+BT3-110,BT3-110,Necrophobia,ネクロフォビア,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT3-110,BT3-110,Necrophobia,ネクロフォビア,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT3-110,BT3-110,Necrophobia,ネクロフォビア,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT3-111,BT3-111,Imperialdramon Dragon Mode,インペリアルドラモン：ドラゴンモード,False,SEC,6,bigweb,1780,1780,1800,0,0,1500,1500,1600,1600
+BT3-111,BT3-111B,Imperialdramon Dragon Mode,インペリアルドラモン：ドラゴンモード,True,SEC,6,bigweb,2580,2500,2500,0,0,2500,2500,2500,2500
+BT3-111,BT3-111,Imperialdramon Dragon Mode,インペリアルドラモン：ドラゴンモード,False,SEC,6,yuyutei,0,0,0,1780,1780,1780,1780,1780,1780
+BT3-112,BT3-112,Omnimon Alter-S,オメガモン　Alter-S,False,SEC,7,bigweb,5980,6000,6000,0,0,5500,5500,5000,4500
+BT3-112,BT3-112B,Omnimon Alter-S,オメガモン　Alter-S,True,SEC,7,bigweb,7500,6980,7800,0,0,7800,7800,7800,7980
+BT3-112,BT3-112,Omnimon Alter-S,オメガモン　Alter-S,False,SEC,7,yuyutei,0,0,0,5980,5980,5980,5980,5980,5980
+BT3-112,BT3-112B,Omnimon Alter-S,オメガモン　Alter-S,True,SEC,7,yuyutei,0,0,0,9980,9980,9980,7980,7980,7980
+BT4-001,BT4-001,Sakuttomon,サクットモン,False,U,2,bigweb,30,30,30,0,0,30,30,30,30
+BT4-001,BT4-001,Sakuttomon,サクットモン,False,U,2,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-002,BT4-002,Bukamon,プカモン,False,U,2,bigweb,30,30,30,0,0,30,30,30,30
+BT4-002,BT4-002,Bukamon,プカモン,False,U,2,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-003,BT4-003,Koromon,コロモン,False,U,2,bigweb,30,30,30,0,0,30,30,30,30
+BT4-003,BT4-003,Koromon,コロモン,False,U,2,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-004,BT4-004,Budmon,バドモン,False,U,2,bigweb,30,30,30,0,0,30,30,30,30
+BT4-004,BT4-004,Budmon,バドモン,False,U,2,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-005,BT4-005,Missimon,ミサイモン,False,U,2,bigweb,30,30,30,0,0,30,30,30,30
+BT4-005,BT4-005,Missimon,ミサイモン,False,U,2,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-006,BT4-006,Xiaomon,シャオモン,False,U,2,bigweb,80,80,80,0,0,80,80,80,80
+BT4-006,BT4-006,Xiaomon,シャオモン,False,U,2,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-007,BT4-007,Otamamon,オタマモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT4-007,BT4-007,Otamamon,オタマモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-008,BT4-008,Agumon,アグモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT4-008,BT4-008,Agumon,アグモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-009,BT4-009,Flamemon,フレイモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT4-009,BT4-009,Flamemon,フレイモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-010,BT4-010,Fugamon,フーガモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT4-010,BT4-010,Fugamon,フーガモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-011,BT4-011,Agunimon,アグニモン,False,U,4,bigweb,50,50,50,0,0,50,50,50,50
+BT4-011,BT4-011B,Agunimon,アグニモン,True,U,4,bigweb,1000,0,0,0,0,0,0,0,0
+BT4-011,BT4-011,Agunimon,アグニモン,False,U,4,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-011,BT4-011B,Agunimon,アグニモン,True,U,4,yuyutei,0,0,0,1280,1280,1280,1780,1780,1780
+BT4-012,BT4-012,GeoGreymon,ジオグレイモン,False,C,4,bigweb,50,50,50,0,0,20,20,20,20
+BT4-012,BT4-012,GeoGreymon,ジオグレイモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-013,BT4-013,BurningGreymon,ヴリトラモン,False,U,4,bigweb,50,50,50,0,0,50,50,50,50
+BT4-013,BT4-013,BurningGreymon,ヴリトラモン,False,U,4,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-014,BT4-014,Vermilimon,ヴァーミリモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT4-014,BT4-014,Vermilimon,ヴァーミリモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-015,BT4-015,Volcdramon,ヴォルクドラモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT4-015,BT4-015,Volcdramon,ヴォルクドラモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-016,BT4-016,Aldamon,アルダモン,False,SR,5,bigweb,250,250,250,0,0,180,180,0,0
+BT4-016,BT4-016,Aldamon,アルダモン,False,SR,5,yuyutei,0,0,0,300,300,300,300,300,300
+BT4-017,BT4-017,RizeGreymon,ライズグレイモン,False,SR,5,bigweb,350,0,350,0,0,450,450,0,550
+BT4-017,BT4-017B,RizeGreymon,ライズグレイモン,True,SR,5,bigweb,1500,0,0,0,0,1980,0,0,0
+BT4-017,BT4-017,RizeGreymon,ライズグレイモン,False,SR,5,yuyutei,0,0,0,500,500,500,680,680,680
+BT4-017,BT4-017B,RizeGreymon,ライズグレイモン,True,SR,5,yuyutei,0,0,0,1980,1980,2480,2980,2980,2980
+BT4-018,BT4-018,Spinomon,スピノモン,False,U,6,bigweb,30,30,30,0,0,30,30,30,30
+BT4-018,BT4-018,Spinomon,スピノモン,False,U,6,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-019,BT4-019,VictoryGreymon,ビクトリーグレイモン,False,R,6,bigweb,50,50,50,0,0,50,50,50,50
+BT4-019,BT4-019B,VictoryGreymon,ビクトリーグレイモン,True,R,6,bigweb,980,0,1200,0,0,1500,1500,0,0
+BT4-019,BT4-019,VictoryGreymon,ビクトリーグレイモン,False,R,6,yuyutei,0,0,0,100,100,100,100,100,100
+BT4-019,BT4-019B,VictoryGreymon,ビクトリーグレイモン,True,R,6,yuyutei,0,0,0,1280,1280,1280,1780,1780,1780
+BT4-020,BT4-020,ShineGreymon,シャイングレイモン,False,R,6,bigweb,50,50,50,0,0,50,50,50,50
+BT4-020,BT4-020,ShineGreymon,シャイングレイモン,False,R,6,yuyutei,0,0,0,100,100,100,100,100,100
+BT4-021,BT4-021,Gaomon,ガオモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT4-021,BT4-021,Gaomon,ガオモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-022,BT4-022,Sangomon,サンゴモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT4-022,BT4-022,Sangomon,サンゴモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-023,BT4-023,Strabimon,ストラビモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT4-023,BT4-023,Strabimon,ストラビモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-024,BT4-024,Tobiumon,トビウモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT4-024,BT4-024,Tobiumon,トビウモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-025,BT4-025,Lobomon,ヴォルフモン,False,U,4,bigweb,30,50,50,0,0,50,0,0,100
+BT4-025,BT4-025B,Lobomon,ヴォルフモン,True,U,4,bigweb,1800,1800,1680,0,0,1800,1800,1800,0
+BT4-025,BT4-025,Lobomon,ヴォルフモン,False,U,4,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-025,BT4-025B,Lobomon,ヴォルフモン,True,U,4,yuyutei,0,0,0,1280,1280,1280,1480,1480,1480
+BT4-026,BT4-026,GaoGamon,ガオガモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT4-026,BT4-026,GaoGamon,ガオガモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-027,BT4-027,KendoGarurumon,ガルムモン,False,U,4,bigweb,30,30,30,0,0,30,30,30,30
+BT4-027,BT4-027,KendoGarurumon,ガルムモン,False,U,4,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-028,BT4-028,Piranimon,ピラニモン,False,U,5,bigweb,30,30,30,0,0,30,30,30,30
+BT4-028,BT4-028,Piranimon,ピラニモン,False,U,5,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-029,BT4-029,Gusokumon,グソクモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT4-029,BT4-029,Gusokumon,グソクモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-030,BT4-030,Beowolfmon,ベオウルフモン,False,SR,5,bigweb,180,180,180,0,0,100,100,0,0
+BT4-030,BT4-030,Beowolfmon,ベオウルフモン,False,SR,5,yuyutei,0,0,0,200,200,200,200,200,300
+BT4-031,BT4-031,MarinChimairamon,マリンキメラモン,False,R,5,bigweb,50,50,50,0,0,50,50,50,50
+BT4-031,BT4-031,MarinChimairamon,マリンキメラモン,False,R,5,yuyutei,0,0,0,100,100,100,100,100,100
+BT4-032,BT4-032,MachGaogamon,マッハガオガモン,False,R,5,bigweb,50,50,50,0,0,50,50,50,80
+BT4-032,BT4-032,MachGaogamon,マッハガオガモン,False,R,5,yuyutei,0,0,0,100,100,100,100,100,100
+BT4-033,BT4-033,ZeedGarurumon,ズィードガルルモン,False,R,6,bigweb,50,50,50,0,0,50,50,50,50
+BT4-033,BT4-033B,ZeedGarurumon,ズィードガルルモン,True,R,6,bigweb,980,980,1000,0,0,1000,1000,0,0
+BT4-033,BT4-033,ZeedGarurumon,ズィードガルルモン,False,R,6,yuyutei,0,0,0,100,100,100,100,100,100
+BT4-033,BT4-033B,ZeedGarurumon,ズィードガルルモン,True,R,6,yuyutei,0,0,0,980,980,980,980,980,980
+BT4-034,BT4-034,Regalecusmon,レガレクスモン,False,C,6,bigweb,20,20,20,0,0,20,20,20,20
+BT4-034,BT4-034,Regalecusmon,レガレクスモン,False,C,6,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-035,BT4-035,MirageGaogamon,ミラージュガオガモン,False,SR,6,bigweb,100,80,80,0,0,80,80,0,0
+BT4-035,BT4-035B,MirageGaogamon,ミラージュガオガモン,True,SR,6,bigweb,800,0,800,0,0,780,0,0,0
+BT4-035,BT4-035,MirageGaogamon,ミラージュガオガモン,False,SR,6,yuyutei,0,0,0,200,200,200,200,200,200
+BT4-035,BT4-035B,MirageGaogamon,ミラージュガオガモン,True,SR,6,yuyutei,0,0,0,780,780,780,780,780,780
+BT4-036,BT4-036,Falcomon,ファルコモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT4-036,BT4-036,Falcomon,ファルコモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-037,BT4-037,Kudamon,クダモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT4-037,BT4-037,Kudamon,クダモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-038,BT4-038,BushiAgumon,ブシアグモン,False,U,3,bigweb,80,50,50,0,0,50,50,50,50
+BT4-038,BT4-038,BushiAgumon,ブシアグモン,False,U,3,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-039,BT4-039,Growlmon,グラウモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT4-039,BT4-039,Growlmon,グラウモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-040,BT4-040,Diatrymon,ディアトリモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT4-040,BT4-040,Diatrymon,ディアトリモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-041,BT4-041,Meicoomon,メイクーモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT4-041,BT4-041,Meicoomon,メイクーモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-042,BT4-042,Piddomon,ピッドモン,False,C,4,bigweb,20,50,50,0,0,50,50,50,50
+BT4-042,BT4-042,Piddomon,ピッドモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-043,BT4-043,Crowmon,ヤタガラモン,False,U,5,bigweb,30,30,30,0,0,30,30,30,30
+BT4-043,BT4-043,Crowmon,ヤタガラモン,False,U,5,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-044,BT4-044,HippoGryphonmon,ヒポグリフォモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT4-044,BT4-044,HippoGryphonmon,ヒポグリフォモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-045,BT4-045,Maycrackmon,メイクラックモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT4-045,BT4-045,Maycrackmon,メイクラックモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-046,BT4-046,WarGrowlmon,メガログラウモン,False,R,5,bigweb,50,50,50,0,0,50,0,80,80
+BT4-046,BT4-046,WarGrowlmon,メガログラウモン,False,R,5,yuyutei,0,0,0,100,100,100,100,100,100
+BT4-047,BT4-047,Rasielmon,ラジエルモン,False,U,6,bigweb,30,30,30,0,0,30,30,30,30
+BT4-047,BT4-047,Rasielmon,ラジエルモン,False,U,6,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-048,BT4-048,WarGreymon,ウォーグレイモン,False,SR,6,bigweb,280,280,280,0,0,300,300,0,0
+BT4-048,BT4-048B,WarGreymon,ウォーグレイモン,True,SR,6,bigweb,1580,0,0,0,0,0,0,0,3800
+BT4-048,BT4-048,WarGreymon,ウォーグレイモン,False,SR,6,yuyutei,0,0,0,400,400,400,400,400,400
+BT4-048,BT4-048B,WarGreymon,ウォーグレイモン,True,SR,6,yuyutei,0,0,0,2480,2480,2980,3980,3980,3980
+BT4-049,BT4-049,Varodurumon,ヴァロドゥルモン,False,R,6,bigweb,50,50,50,0,0,50,50,50,50
+BT4-049,BT4-049,Varodurumon,ヴァロドゥルモン,False,R,6,yuyutei,0,0,0,100,100,100,100,100,100
+BT4-050,BT4-050,Liollmon,レオルモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT4-050,BT4-050,Liollmon,レオルモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-051,BT4-051,DoKunemon,ドクネモン,False,C,3,bigweb,20,30,30,0,0,30,30,30,30
+BT4-051,BT4-051,DoKunemon,ドクネモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-052,BT4-052,Lalamon,ララモン,False,U,3,bigweb,50,80,80,0,0,80,80,80,80
+BT4-052,BT4-052,Lalamon,ララモン,False,U,3,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-053,BT4-053,Roachmon,ゴキモン,False,U,4,bigweb,30,50,50,0,0,50,50,50,50
+BT4-053,BT4-053,Roachmon,ゴキモン,False,U,4,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-054,BT4-054,Sunflowmon,サンフラウモン,False,U,4,bigweb,30,50,50,0,0,50,50,50,50
+BT4-054,BT4-054,Sunflowmon,サンフラウモン,False,U,4,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-055,BT4-055,Leomon,レオモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT4-055,BT4-055,Leomon,レオモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-056,BT4-056,SkullScorpiomon,スコピオモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT4-056,BT4-056,SkullScorpiomon,スコピオモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-057,BT4-057,GrapLeomon,グラップレオモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT4-057,BT4-057,GrapLeomon,グラップレオモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-058,BT4-058,Orochimon,オロチモン,False,R,5,bigweb,50,50,50,0,0,50,50,50,50
+BT4-058,BT4-058,Orochimon,オロチモン,False,R,5,yuyutei,0,0,0,100,100,100,100,100,100
+BT4-059,BT4-059,Lilamon,ライラモン,False,SR,5,bigweb,250,250,250,0,0,150,150,0,0
+BT4-059,BT4-059B,Lilamon,ライラモン,True,SR,5,bigweb,1100,0,0,0,0,1600,1600,1600,0
+BT4-059,BT4-059,Lilamon,ライラモン,False,SR,5,yuyutei,0,0,0,400,400,400,300,300,300
+BT4-059,BT4-059B,Lilamon,ライラモン,True,SR,5,yuyutei,0,0,0,1480,1480,1480,1480,1480,1780
+BT4-060,BT4-060,Lotosmon,ロトスモン,False,U,6,bigweb,30,30,50,0,0,50,50,50,50
+BT4-060,BT4-060,Lotosmon,ロトスモン,False,U,6,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-061,BT4-061,BanchoLeomon,バンチョーレオモン,False,R,6,bigweb,50,50,50,0,0,50,50,50,50
+BT4-061,BT4-061,BanchoLeomon,バンチョーレオモン,False,R,6,yuyutei,0,0,0,100,100,100,100,100,100
+BT4-062,BT4-062,Nidhoggmon,ニーズヘッグモン,False,SR,6,bigweb,280,280,280,0,0,250,250,0,0
+BT4-062,BT4-062B,Nidhoggmon,ニーズヘッグモン,True,SR,6,bigweb,1200,1200,0,0,0,1600,1600,1600,0
+BT4-062,BT4-062,Nidhoggmon,ニーズヘッグモン,False,SR,6,yuyutei,0,0,0,400,400,400,400,400,400
+BT4-062,BT4-062B,Nidhoggmon,ニーズヘッグモン,True,SR,6,yuyutei,0,0,0,1480,1480,1480,1480,1780,1780
+BT4-063,BT4-063,Commandramon,コマンドラモン,False,R,3,bigweb,50,50,50,0,0,50,50,50,50
+BT4-063,BT4-063,Commandramon,コマンドラモン,False,R,3,yuyutei,0,0,0,100,100,100,100,100,100
+BT4-064,BT4-064,Sunarizamon,スナリザモン,False,U,3,bigweb,30,30,30,0,0,50,50,50,80
+BT4-064,BT4-064,Sunarizamon,スナリザモン,False,U,3,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-065,BT4-065,Gotsumon,ゴツモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT4-065,BT4-065,Gotsumon,ゴツモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-066,BT4-066,Golemon,ゴーレモン,False,C,4,bigweb,20,30,30,0,0,30,30,30,30
+BT4-066,BT4-066,Golemon,ゴーレモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-067,BT4-067,Sealsdramon,シールズドラモン,False,U,4,bigweb,50,80,80,0,0,100,100,100,100
+BT4-067,BT4-067,Sealsdramon,シールズドラモン,False,U,4,yuyutei,0,0,0,50,50,100,100,100,100
+BT4-068,BT4-068,Baboongamon,バブンガモン,False,U,4,bigweb,30,30,30,0,0,30,30,30,30
+BT4-068,BT4-068,Baboongamon,バブンガモン,False,U,4,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-069,BT4-069,Blimpmon,ブリンプモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT4-069,BT4-069,Blimpmon,ブリンプモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-070,BT4-070,Meteormon,インセキモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT4-070,BT4-070,Meteormon,インセキモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-071,BT4-071,Tankdramon,タンクドラモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT4-071,BT4-071,Tankdramon,タンクドラモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-072,BT4-072,Gogmamon,ゴグマモン,False,SR,5,bigweb,120,0,150,0,0,200,200,0,0
+BT4-072,BT4-072,Gogmamon,ゴグマモン,False,SR,5,yuyutei,0,0,0,200,200,200,200,200,300
+BT4-073,BT4-073,BanchoGolemon,バンチョーゴーレモン,False,U,6,bigweb,60,60,60,0,0,50,50,50,50
+BT4-073,BT4-073,BanchoGolemon,バンチョーゴーレモン,False,U,6,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-074,BT4-074,Darkdramon,ダークドラモン,False,R,6,bigweb,80,80,80,0,0,80,80,80,80
+BT4-074,BT4-074,Darkdramon,ダークドラモン,False,R,6,yuyutei,0,0,0,100,100,100,100,100,100
+BT4-075,BT4-075,Blastmon,ブラストモン,False,SR,6,bigweb,100,80,80,0,0,80,80,0,0
+BT4-075,BT4-075B,Blastmon,ブラストモン,True,SR,6,bigweb,500,500,600,0,0,500,500,0,0
+BT4-075,BT4-075,Blastmon,ブラストモン,False,SR,6,yuyutei,0,0,0,200,200,200,200,200,200
+BT4-075,BT4-075B,Blastmon,ブラストモン,True,SR,6,yuyutei,0,0,0,780,780,780,680,680,680
+BT4-076,BT4-076,Gabumon,ガブモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT4-076,BT4-076,Gabumon,ガブモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-077,BT4-077,Ghostmon,ゴースモン,False,R,3,bigweb,50,50,50,0,0,50,50,50,50
+BT4-077,BT4-077,Ghostmon,ゴースモン,False,R,3,yuyutei,0,0,0,100,100,100,100,100,100
+BT4-078,BT4-078,Soundbirdmon,サウンドバードモン,False,U,3,bigweb,30,30,30,0,0,30,30,30,30
+BT4-078,BT4-078,Soundbirdmon,サウンドバードモン,False,U,3,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-079,BT4-079,Labramon,ラブラモン,False,C,3,bigweb,20,20,20,0,0,20,20,20,20
+BT4-079,BT4-079,Labramon,ラブラモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-080,BT4-080,Bakemon,バケモン,False,U,4,bigweb,30,30,30,0,0,30,30,30,30
+BT4-080,BT4-080,Bakemon,バケモン,False,U,4,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-081,BT4-081,Devimon,デビモン,False,C,4,bigweb,20,20,20,0,0,20,20,20,20
+BT4-081,BT4-081,Devimon,デビモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-082,BT4-082,Dobermon,ドーベルモン,False,U,4,bigweb,30,30,30,0,0,30,30,30,30
+BT4-082,BT4-082,Dobermon,ドーベルモン,False,U,4,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-083,BT4-083,Cerberusmon,ケルベロモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT4-083,BT4-083,Cerberusmon,ケルベロモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-084,BT4-084,NeoDevimon,ネオデビモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT4-084,BT4-084,NeoDevimon,ネオデビモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-085,BT4-085,Phantomon,ファントモン,False,C,5,bigweb,20,20,20,0,0,20,20,20,20
+BT4-085,BT4-085,Phantomon,ファントモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-086,BT4-086,Cerberusmon: Werewolf Mode,ケルベロモン：人狼モード,False,R,5,bigweb,80,80,80,0,0,80,80,80,80
+BT4-086,BT4-086,Cerberusmon: Werewolf Mode,ケルベロモン：人狼モード,False,R,5,yuyutei,0,0,0,100,100,100,100,100,100
+BT4-087,BT4-087,Anubismon,アヌビモン,False,U,6,bigweb,90,100,80,0,0,80,80,80,80
+BT4-087,BT4-087,Anubismon,アヌビモン,False,U,6,yuyutei,0,0,0,100,100,100,100,100,100
+BT4-088,BT4-088,DanDevimon,ダンデビモン,False,SR,6,bigweb,100,120,120,0,0,80,80,0,0
+BT4-088,BT4-088B,DanDevimon,ダンデビモン,True,SR,6,bigweb,780,780,0,0,0,980,0,0,0
+BT4-088,BT4-088,DanDevimon,ダンデビモン,False,SR,6,yuyutei,0,0,0,200,200,200,200,200,200
+BT4-088,BT4-088B,DanDevimon,ダンデビモン,True,SR,6,yuyutei,0,0,0,780,780,980,1280,1280,1280
+BT4-089,BT4-089,Plutomon,プルートモン,False,SR,6,bigweb,180,200,200,0,0,150,150,0,0
+BT4-089,BT4-089,Plutomon,プルートモン,False,SR,6,yuyutei,0,0,0,300,300,300,300,300,300
+BT4-090,BT4-090,Chaosmon,カオスモン,False,R,7,bigweb,300,300,300,0,0,200,0,220,220
+BT4-090,BT4-090B,Chaosmon,カオスモン,True,R,7,bigweb,0,0,0,0,0,3800,3800,3800,3500
+BT4-090,BT4-090,Chaosmon,カオスモン,False,R,7,yuyutei,0,0,0,400,400,400,400,400,400
+BT4-090,BT4-090B,Chaosmon,カオスモン,True,R,7,yuyutei,0,0,0,2980,2980,2980,3480,3480,3480
+BT4-091,BT4-091,Chaosmon: Valdur Arm,カオスモン：ヴァロドゥルアーム,False,SR,7,bigweb,780,780,700,0,0,1000,0,1100,1100
+BT4-091,BT4-091,Chaosmon: Valdur Arm,カオスモン：ヴァロドゥルアーム,False,SR,7,yuyutei,0,0,0,980,980,980,980,980,1280
+BT4-092,BT4-092,Masaru Daimon,大門大,False,R,0,bigweb,50,100,150,0,0,180,180,180,180
+BT4-092,BT4-092B,Masaru Daimon,大門大,True,R,0,bigweb,200,250,300,0,0,300,0,0,0
+BT4-092,BT4-092,Masaru Daimon,大門大,False,R,0,yuyutei,0,0,0,100,100,200,200,200,200
+BT4-092,BT4-092B,Masaru Daimon,大門大,True,R,0,yuyutei,0,0,0,200,200,400,400,500,500
+BT4-093,BT4-093,Thoma H. Norstein,トーマ・H・ノルシュタイン,False,R,0,bigweb,50,50,50,0,0,50,50,50,50
+BT4-093,BT4-093B,Thoma H. Norstein,トーマ・H・ノルシュタイン,True,R,0,bigweb,150,150,150,0,0,80,80,0,0
+BT4-093,BT4-093,Thoma H. Norstein,トーマ・H・ノルシュタイン,False,R,0,yuyutei,0,0,0,100,100,100,100,100,100
+BT4-093,BT4-093B,Thoma H. Norstein,トーマ・H・ノルシュタイン,True,R,0,yuyutei,0,0,0,200,200,200,200,200,200
+BT4-094,BT4-094,Taichi Yagami,八神太一,False,R,0,bigweb,100,100,100,0,0,80,80,80,80
+BT4-094,BT4-094B,Taichi Yagami,八神太一,True,R,0,bigweb,200,250,250,0,0,200,200,0,0
+BT4-094,BT4-094,Taichi Yagami,八神太一,False,R,0,yuyutei,0,0,0,100,100,100,100,100,100
+BT4-094,BT4-094B,Taichi Yagami,八神太一,True,R,0,yuyutei,0,0,0,200,200,200,200,200,200
+BT4-095,BT4-095,Yoshino Fujieda,藤枝淑乃,False,R,0,bigweb,50,50,50,0,0,50,50,50,50
+BT4-095,BT4-095B,Yoshino Fujieda,藤枝淑乃,True,R,0,bigweb,150,180,180,0,0,150,150,0,0
+BT4-095,BT4-095,Yoshino Fujieda,藤枝淑乃,False,R,0,yuyutei,0,0,0,100,100,100,100,100,100
+BT4-095,BT4-095B,Yoshino Fujieda,藤枝淑乃,True,R,0,yuyutei,0,0,0,200,200,300,300,300,300
+BT4-096,BT4-096,Koshiro Izumi,泉光子郎,False,R,0,bigweb,50,50,50,0,0,50,50,50,50
+BT4-096,BT4-096B,Koshiro Izumi,泉光子郎,True,R,0,bigweb,150,180,180,0,0,80,80,0,0
+BT4-096,BT4-096,Koshiro Izumi,泉光子郎,False,R,0,yuyutei,0,0,0,100,100,100,100,100,100
+BT4-096,BT4-096B,Koshiro Izumi,泉光子郎,True,R,0,yuyutei,0,0,0,200,200,200,200,200,200
+BT4-097,BT4-097,Hikari Yagami,八神ヒカリ,False,R,0,bigweb,50,50,50,0,0,50,50,50,50
+BT4-097,BT4-097B,Hikari Yagami,八神ヒカリ,True,R,0,bigweb,150,180,180,0,0,80,0,0,0
+BT4-097,BT4-097,Hikari Yagami,八神ヒカリ,False,R,0,yuyutei,0,0,0,100,100,100,100,100,100
+BT4-097,BT4-097B,Hikari Yagami,八神ヒカリ,True,R,0,yuyutei,0,0,0,200,200,200,200,200,200
+BT4-098,BT4-098,Atomic Inferno,ブラフマストラ,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT4-098,BT4-098,Atomic Inferno,ブラフマストラ,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-099,BT4-099,Heir of Dragons,竜の力を継ぐもの,False,U,0,bigweb,100,100,80,0,0,50,50,50,80
+BT4-099,BT4-099,Heir of Dragons,竜の力を継ぐもの,False,U,0,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-100,BT4-100,Trident Revolver,トライデントリボルバー,False,R,0,bigweb,80,100,100,0,0,50,50,50,80
+BT4-100,BT4-100,Trident Revolver,トライデントリボルバー,False,R,0,bigweb,80,100,100,0,0,50,50,50,80
+BT4-100,BT4-100,Trident Revolver,トライデントリボルバー,False,R,0,yuyutei,0,0,0,100,100,100,100,100,100
+BT4-101,BT4-101,I'll Drag You Into the Depths!,水底に引きずり込め！！,False,U,0,bigweb,50,80,80,0,0,50,50,50,50
+BT4-101,BT4-101,I'll Drag You Into the Depths!,水底に引きずり込め！！,False,U,0,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-102,BT4-102,Aqua Viper,アクア・バイパー,False,C,0,bigweb,20,20,20,0,0,20,20,20,20
+BT4-102,BT4-102,Aqua Viper,アクア・バイパー,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-103,BT4-103,Full Moon Blaster,フルムーンブラスター,False,R,0,bigweb,50,50,50,0,0,50,50,50,50
+BT4-103,BT4-103,Full Moon Blaster,フルムーンブラスター,False,R,0,yuyutei,0,0,0,100,100,100,100,100,100
+BT4-104,BT4-104,Blinding Ray,絶光衝,False,R,0,bigweb,80,120,100,0,0,50,50,50,50
+BT4-104,BT4-104,Blinding Ray,絶光衝,False,R,0,yuyutei,0,0,0,100,100,100,100,100,200
+BT4-105,BT4-105,Tactical Retreat!,戦術的後退！！,False,U,0,bigweb,30,80,80,0,0,50,50,50,50
+BT4-105,BT4-105,Tactical Retreat!,戦術的後退！！,False,U,0,yuyutei,0,0,0,50,50,50,50,50,50
+BT4-106,BT4-106,Purge Shine,パージシャイン,False,C,0,bigweb,30,30,30,0,0,30,30,30,30
+BT4-106,BT4-106,Purge Shine,パージシャイン,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-107,BT4-107,Pollen Spray,アン・ドゥ・ポラン,False,R,0,bigweb,80,80,80,0,0,80,80,80,80
+BT4-107,BT4-107,Pollen Spray,アン・ドゥ・ポラン,False,R,0,yuyutei,0,0,0,100,100,100,100,100,100
+BT4-108,BT4-108,Cyclonic Kick,旋風タービン蹴り,False,C,0,bigweb,50,50,50,0,0,30,30,30,30
+BT4-108,BT4-108,Cyclonic Kick,旋風タービン蹴り,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-109,BT4-109,Final Zubagon Punch,ファイナルズバゴーンパンチ,False,C,0,bigweb,30,50,50,0,0,50,50,50,50
+BT4-109,BT4-109,Final Zubagon Punch,ファイナルズバゴーンパンチ,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-110,BT4-110,Dark Roar,ダークロアー,False,R,0,bigweb,50,50,50,0,0,50,50,50,50
+BT4-110,BT4-110,Dark Roar,ダークロアー,False,R,0,bigweb,50,50,50,0,0,50,50,50,50
+BT4-110,BT4-110,Dark Roar,ダークロアー,False,R,0,yuyutei,0,0,0,100,100,100,100,100,100
+BT4-111,BT4-111,Jack Raid,ジャックレイド,False,C,0,bigweb,50,50,50,0,0,50,50,50,50
+BT4-111,BT4-111,Jack Raid,ジャックレイド,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+BT4-112,BT4-112,Hell’s Gate,ヘルズゲート,False,R,0,bigweb,100,100,100,0,0,100,100,100,100
+BT4-112,BT4-112,Hell’s Gate,ヘルズゲート,False,R,0,yuyutei,0,0,0,100,100,100,100,100,100
+BT4-113,BT4-113,AncientGreymon,エンシェントグレイモン,False,SEC,6,bigweb,2200,2300,1980,0,0,1500,1500,1500,1500
+BT4-113,BT4-113B,AncientGreymon,エンシェントグレイモン,True,SEC,6,bigweb,0,0,3500,0,0,2980,2980,2980,2980
+BT4-113,BT4-113,AncientGreymon,エンシェントグレイモン,False,SEC,6,yuyutei,0,0,0,1980,1980,1980,1980,1980,1980
+BT4-113,BT4-113B,AncientGreymon,エンシェントグレイモン,True,SEC,6,yuyutei,0,0,0,3480,3480,3480,2980,2980,2980
+BT4-114,BT4-114,AncientGarurumon,エンシェントガルルモン,False,SEC,6,bigweb,1580,1200,1000,0,0,1000,1000,1000,1200
+BT4-114,BT4-114B,AncientGarurumon,エンシェントガルルモン,True,SEC,6,bigweb,1980,1980,1980,0,0,1980,1980,1980,1980
+BT4-114,BT4-114,AncientGarurumon,エンシェントガルルモン,False,SEC,6,yuyutei,0,0,0,1280,1280,1280,1280,1280,1280
+BT4-114,BT4-114B,AncientGarurumon,エンシェントガルルモン,True,SEC,6,yuyutei,0,0,0,2480,2480,2480,2480,2480,2480
+BT4-115,BT4-115,Lucemon,ルーチェモン,False,SEC,3,bigweb,3980,0,5500,0,0,5500,5500,5000,4980
+BT4-115,BT4-115B,Lucemon,ルーチェモン,True,SEC,3,bigweb,5980,0,0,0,0,9800,9800,9800,8980
+BT4-115,BT4-115,Lucemon,ルーチェモン,False,SEC,3,yuyutei,0,0,0,6980,6980,5980,5980,5980,5980
+BT4-115,BT4-115B,Lucemon,ルーチェモン,True,SEC,3,yuyutei,0,0,0,8980,8980,8980,8980,8980,9980
+P-001,P-001,Agumon,アグモン,False,P,3,bigweb,0,0,0,0,0,120,120,120,100
+P-001,P-001,Agumon,アグモン,False,P,3,yuyutei,0,0,0,100,100,100,100,100,150
+P-002,P-002,Biyomon,ピヨモン,False,P,3,bigweb,0,0,0,0,0,120,120,150,120
+P-002,P-002,Biyomon,ピヨモン,False,P,3,yuyutei,0,0,0,50,50,50,50,50,50
+P-003,P-003,Gabumon,ガブモン,False,P,3,bigweb,0,0,0,0,0,150,150,150,100
+P-003,P-003,Gabumon,ガブモン,False,P,3,yuyutei,0,0,0,50,50,50,50,50,50
+P-004,P-004,Gomamon,ゴマモン,False,P,3,bigweb,0,0,0,0,0,150,0,0,250
+P-004,P-004,Gomamon,ゴマモン,False,P,3,yuyutei,0,0,0,200,200,200,200,200,200
+P-005,P-005,Patamon,パタモン,False,P,3,bigweb,0,0,0,0,0,150,150,150,150
+P-005,P-005,Patamon,パタモン,False,P,3,yuyutei,0,0,0,200,200,200,200,200,200
+P-006,P-006,Gatomon,テイルモン,False,P,4,bigweb,0,0,0,0,0,100,100,100,80
+P-006,P-006,Gatomon,テイルモン,False,P,4,yuyutei,0,0,0,50,50,50,50,50,50
+P-007,P-007,Garurumon,ガルルモン,False,P,4,bigweb,0,0,0,0,0,480,0,600,0
+P-007,P-007,Garurumon,ガルルモン,False,P,4,yuyutei,0,0,0,400,400,400,400,500,580
+P-008,P-008,WereGarurumon,ワーガルルモン,False,P,5,bigweb,0,0,0,0,0,680,0,800,800
+P-008,P-008,WereGarurumon,ワーガルルモン,False,P,5,yuyutei,0,0,0,580,580,580,580,680,780
+P-009,P-009,Agumon,アグモン,False,P,3,bigweb,0,0,0,0,0,0,0,0,0
+P-009,P-009,Agumon,アグモン,False,P,3,yuyutei,0,0,0,980,980,980,1480,1780,1980
+P-010,P-010,Greymon,グレイモン,False,P,4,bigweb,0,0,0,0,0,900,900,900,900
+P-010,P-010,Greymon,グレイモン,False,P,4,yuyutei,0,0,0,580,580,580,580,780,780
+P-011,P-011,Veedramon Zero,ブイドラモン ゼロ,False,P,4,bigweb,0,0,0,0,0,300,0,350,350
+P-011,P-011,Veedramon Zero,ブイドラモン ゼロ,False,P,4,yuyutei,0,0,0,200,200,200,200,200,200
+P-012,P-012,Tai Kamiya (V-Tamer),八神太一（デジモンアドベンチャー Vテイマー01）,False,P,0,bigweb,0,0,0,0,0,400,0,480,480
+P-012,P-012,Tai Kamiya (V-Tamer),八神太一（デジモンアドベンチャー Vテイマー01）,False,P,0,yuyutei,0,0,0,400,400,400,400,400,400
+P-013,P-013,Keramon,ケラモン,False,P,3,bigweb,0,0,0,0,0,300,300,0,0
+P-013,P-013,Keramon,ケラモン,False,P,3,yuyutei,0,0,0,300,300,300,300,300,400
+P-014,P-014,Chrysalimon,クリサリモン,False,P,4,bigweb,0,0,0,0,0,150,150,150,200
+P-014,P-014,Chrysalimon,クリサリモン,False,P,4,yuyutei,0,0,0,300,300,300,300,300,400
+P-015,P-015,Infermon,インフェルモン,False,P,5,bigweb,0,0,0,0,0,200,200,0,300
+P-015,P-015,Infermon,インフェルモン,False,P,5,yuyutei,0,0,0,300,300,300,300,300,300
+P-016,P-016,Diaboromon,ディアボロモン,False,P,6,bigweb,0,0,0,0,0,250,250,0,480
+P-016,P-016,Diaboromon,ディアボロモン,False,P,6,yuyutei,0,0,0,300,300,300,300,500,580
+P-017,P-017,DemiDevimon,ピコデビモン,False,P,3,bigweb,0,0,0,0,0,150,150,150,180
+P-017,P-017,DemiDevimon,ピコデビモン,False,P,3,yuyutei,0,0,0,300,300,300,300,300,300
+P-018,P-018,Devimon,デビモン,False,P,4,bigweb,0,0,0,0,0,250,250,250,250
+P-018,P-018,Devimon,デビモン,False,P,4,yuyutei,0,0,0,200,200,200,200,200,200
+P-019,P-019,Myotismon,ヴァンデモン,False,P,5,bigweb,0,0,0,0,0,150,150,150,150
+P-019,P-019,Myotismon,ヴァンデモン,False,P,5,yuyutei,0,0,0,200,200,200,200,200,200
+P-020,P-020,VenomMyotismon,ヴェノムヴァンデモン,False,P,6,bigweb,0,0,0,0,0,250,250,250,250
+P-020,P-020,VenomMyotismon,ヴェノムヴァンデモン,False,P,6,yuyutei,0,0,0,200,200,200,200,200,200
+P-021,P-021,A New World,新たな世界,False,P,0,bigweb,0,0,0,0,0,300,300,300,300
+P-021,P-021,A New World,新たな世界,False,P,0,yuyutei,0,0,0,300,300,300,300,300,300
+P-022,P-022,Jogress Evolution Now Unite Your Heart,ジョグレス進化　今、心をひとつに,False,P,0,bigweb,0,0,0,0,0,300,300,300,300
+P-022,P-022,Jogress Evolution Now Unite Your Heart,ジョグレス進化　今、心をひとつに,False,P,0,yuyutei,0,0,0,400,400,400,400,400,400
+P-023,P-023,Patamon's confession,パタモンの告白,False,P,0,bigweb,0,0,0,0,0,200,200,200,0
+P-023,P-023,Patamon's confession,パタモンの告白,False,P,0,yuyutei,0,0,0,200,200,200,200,200,200
+P-024,P-024,Tai You Sure Have Gotten Big,太一、おっきくなったね,False,P,0,bigweb,0,0,0,0,0,0,0,0,0
+P-024,P-024,Tai You Sure Have Gotten Big,太一、おっきくなったね,False,P,0,yuyutei,0,0,0,500,500,500,500,500,500
+P-025,P-025,GranKuwagamon,グランクワガーモン,False,P,6,bigweb,0,0,0,0,0,150,0,180,200
+P-025,P-025,GranKuwagamon,グランクワガーモン,False,P,6,yuyutei,0,0,0,200,200,200,200,200,400
+P-026,P-026,BlackWarGreymon,ブラックウォーグレイモン,False,P,6,bigweb,0,0,0,0,0,150,0,0,400
+P-026,P-026,BlackWarGreymon,ブラックウォーグレイモン,False,P,6,yuyutei,0,0,0,400,400,400,500,500,500
+P-027,P-027,MetalGarurumon,メタルガルルモン,False,P,6,bigweb,0,0,0,0,0,900,900,900,900
+P-027,P-027,MetalGarurumon,メタルガルルモン,False,P,6,yuyutei,0,0,0,1280,1280,1280,1280,1280,1280
+ST1-01,ST1-01,Koromon,コロモン,False,U,2,bigweb,0,0,0,0,0,30,30,30,30
+ST1-01,ST1-01,Koromon,コロモン,False,U,2,yuyutei,0,0,0,20,20,20,20,20,20
+ST1-02,ST1-02,Biyomon,ピヨモン,False,C,3,bigweb,0,0,0,0,0,20,20,20,20
+ST1-02,ST1-02,Biyomon,ピヨモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+ST1-03,ST1-03,Agumon,アグモン,False,U,3,bigweb,0,0,0,0,0,50,50,50,50
+ST1-03,ST1-03,Agumon,アグモン,False,U,3,yuyutei,0,0,0,20,20,20,20,20,20
+ST1-04,ST1-04,Dracomon,ドラコモン,False,C,3,bigweb,0,0,0,0,0,20,20,20,20
+ST1-04,ST1-04,Dracomon,ドラコモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+ST1-05,ST1-05,Birdramon,バードラモン,False,C,4,bigweb,0,0,0,0,0,20,20,20,20
+ST1-05,ST1-05,Birdramon,バードラモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+ST1-06,ST1-06,Coredramon,コアドラモン,False,C,4,bigweb,0,0,0,0,0,20,20,20,20
+ST1-06,ST1-06,Coredramon,コアドラモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+ST1-07,ST1-07,Greymon,グレイモン,False,U,4,bigweb,0,0,0,0,0,100,100,120,120
+ST1-07,ST1-07,Greymon,グレイモン,False,U,4,yuyutei,0,0,0,50,50,50,50,50,50
+ST1-08,ST1-08,Garudamon,ガルダモン,False,U,5,bigweb,0,0,0,0,0,20,20,20,20
+ST1-08,ST1-08,Garudamon,ガルダモン,False,U,5,yuyutei,0,0,0,20,20,20,20,20,20
+ST1-09,ST1-09,MetalGreymon,メタルグレイモン,False,R,5,bigweb,0,0,0,0,0,20,20,20,20
+ST1-09,ST1-09,MetalGreymon,メタルグレイモン,False,R,5,yuyutei,0,0,0,50,50,50,50,50,50
+ST1-10,ST1-10,Phoenixmon,ホウオウモン,False,R,6,bigweb,0,0,0,0,0,50,50,50,50
+ST1-10,ST1-10,Phoenixmon,ホウオウモン,False,R,6,yuyutei,0,0,0,100,100,100,100,100,100
+ST1-11,ST1-11,WarGreymon,ウォーグレイモン,False,SR,6,bigweb,0,0,0,0,0,50,50,50,50
+ST1-11,ST1-11,WarGreymon,ウォーグレイモン,False,SR,6,yuyutei,0,0,0,200,100,100,100,100,100
+ST1-12,ST1-12,Taichi Yagami,八神太一,False,R,0,bigweb,0,0,0,0,0,20,20,20,20
+ST1-12,ST1-12,Taichi Yagami,八神太一,False,R,0,yuyutei,0,0,0,50,50,50,50,50,50
+ST1-13,ST1-13,Shadow Wing,シャドーウィング,False,C,0,bigweb,0,0,0,0,0,20,20,20,20
+ST1-13,ST1-13,Shadow Wing,シャドーウィング,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+ST1-14,ST1-14,Starlight Explosion,スターライトエクスプロージョン,False,C,0,bigweb,0,0,0,0,0,20,20,20,20
+ST1-14,ST1-14,Starlight Explosion,スターライトエクスプロージョン,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+ST1-15,ST1-15,Giga Destroyer,ギガデストロイヤー,False,C,0,bigweb,0,0,0,0,0,20,20,20,20
+ST1-15,ST1-15,Giga Destroyer,ギガデストロイヤー,False,C,0,yuyutei,0,0,0,50,50,50,50,50,50
+ST1-16,ST1-16,Gaia Force,ガイアフォース,False,U,0,bigweb,0,0,0,0,0,400,400,400,400
+ST1-16,ST1-16,Gaia Force,ガイアフォース,False,U,0,yuyutei,0,0,0,500,500,400,500,500,500
+ST2-01,ST2-01,Tsunomon,ツノモン,False,U,2,bigweb,0,0,0,0,0,30,30,30,30
+ST2-01,ST2-01,Tsunomon,ツノモン,False,U,2,yuyutei,0,0,0,20,20,20,20,20,20
+ST2-02,ST2-02,Gomamon,ゴマモン,False,C,3,bigweb,0,0,0,0,0,50,50,50,50
+ST2-02,ST2-02,Gomamon,ゴマモン,False,C,3,yuyutei,0,0,0,50,50,50,50,50,50
+ST2-03,ST2-03,Gabumon,ガブモン,False,U,3,bigweb,0,0,0,0,0,30,30,30,30
+ST2-03,ST2-03,Gabumon,ガブモン,False,U,3,yuyutei,0,0,0,20,20,20,20,20,20
+ST2-04,ST2-04,Bearmon,ベアモン,False,C,3,bigweb,0,0,0,0,0,20,20,20,20
+ST2-04,ST2-04,Bearmon,ベアモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+ST2-05,ST2-05,Ikkakumon,イッカクモン,False,C,4,bigweb,0,0,0,0,0,20,20,20,20
+ST2-05,ST2-05,Ikkakumon,イッカクモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+ST2-06,ST2-06,MetalGarurumon,ガルルモン,False,U,4,bigweb,0,0,0,0,0,30,30,30,30
+ST2-06,ST2-06,MetalGarurumon,ガルルモン,False,U,4,yuyutei,0,0,0,50,50,50,50,50,50
+ST2-07,ST2-07,Grizzlymon,グリズモン,False,C,4,bigweb,0,0,0,0,0,80,80,80,80
+ST2-07,ST2-07,Grizzlymon,グリズモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+ST2-08,ST2-08,WereGarurumon,ワーガルルモン,False,R,5,bigweb,0,0,0,0,0,30,30,30,30
+ST2-08,ST2-08,WereGarurumon,ワーガルルモン,False,R,5,yuyutei,0,0,0,50,50,50,50,50,50
+ST2-09,ST2-09,Zudomon,ズドモン,False,U,5,bigweb,0,0,0,0,0,30,30,30,30
+ST2-09,ST2-09,Zudomon,ズドモン,False,U,5,yuyutei,0,0,0,20,20,20,20,20,20
+ST2-10,ST2-10,Plesiomon,プレシオモン,False,R,6,bigweb,0,0,0,0,0,50,50,50,50
+ST2-10,ST2-10,Plesiomon,プレシオモン,False,R,6,yuyutei,0,0,0,100,100,100,100,100,100
+ST2-11,ST2-11,MetalGarurumon,メタルガルルモン,False,SR,6,bigweb,0,0,0,0,0,50,50,50,50
+ST2-11,ST2-11,MetalGarurumon,メタルガルルモン,False,SR,6,yuyutei,0,0,0,200,200,100,100,100,100
+ST2-12,ST2-12,Yamato Ishida,石田ヤマト,False,R,0,bigweb,0,0,0,0,0,20,20,20,20
+ST2-12,ST2-12,Yamato Ishida,石田ヤマト,False,R,0,yuyutei,0,0,0,50,50,50,50,50,50
+ST2-13,ST2-13,Hammer Spark,ハンマースパーク,False,C,0,bigweb,0,0,0,0,0,50,50,50,50
+ST2-13,ST2-13,Hammer Spark,ハンマースパーク,False,C,0,yuyutei,0,0,0,50,50,50,50,50,50
+ST2-14,ST2-14,Sorrow Blue,ソローブルー,False,C,0,bigweb,0,0,0,0,0,20,20,20,20
+ST2-14,ST2-14,Sorrow Blue,ソローブルー,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+ST2-15,ST2-15,Kaiser Nail,カイザーネイル,False,C,0,bigweb,0,0,0,0,0,180,0,250,250
+ST2-15,ST2-15,Kaiser Nail,カイザーネイル,False,C,0,yuyutei,0,0,0,50,50,50,100,100,100
+ST2-16,ST2-16,Cocytus Breath,コキュートスブレス,False,U,0,bigweb,0,0,0,0,0,80,80,80,80
+ST2-16,ST2-16,Cocytus Breath,コキュートスブレス,False,U,0,yuyutei,0,0,0,200,200,200,200,200,200
+ST3-01,ST3-01,Tokomon,トコモン,False,U,2,bigweb,0,0,0,0,0,30,30,30,30
+ST3-01,ST3-01,Tokomon,トコモン,False,U,2,yuyutei,0,0,0,20,20,20,20,20,20
+ST3-02,ST3-02,Salamon,プロットモン,False,C,3,bigweb,0,0,0,0,0,20,20,20,20
+ST3-02,ST3-02,Salamon,プロットモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+ST3-03,ST3-03,Tapirmon,バクモン,False,C,3,bigweb,0,0,0,0,0,20,20,20,20
+ST3-03,ST3-03,Tapirmon,バクモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+ST3-04,ST3-04,Patamon,パタモン,False,U,3,bigweb,0,0,0,0,0,50,50,50,50
+ST3-04,ST3-04,Patamon,パタモン,False,U,3,yuyutei,0,0,0,50,50,50,50,50,50
+ST3-05,ST3-05,Angemon,エンジェモン,False,U,4,bigweb,0,0,0,0,0,50,50,50,50
+ST3-05,ST3-05,Angemon,エンジェモン,False,U,4,yuyutei,0,0,0,50,50,50,50,50,50
+ST3-06,ST3-06,Gatomon,テイルモン,False,C,4,bigweb,0,0,0,0,0,20,20,20,20
+ST3-06,ST3-06,Gatomon,テイルモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+ST3-07,ST3-07,Unimon,ユニモン,False,C,4,bigweb,0,0,0,0,0,30,30,50,50
+ST3-07,ST3-07,Unimon,ユニモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+ST3-08,ST3-08,MagnaAngemon,ホーリーエンジェモン,False,R,5,bigweb,0,0,0,0,0,30,30,30,30
+ST3-08,ST3-08,MagnaAngemon,ホーリーエンジェモン,False,R,5,yuyutei,0,0,0,50,50,50,50,50,50
+ST3-09,ST3-09,Angewomon,エンジェウーモン,False,U,5,bigweb,0,0,0,0,0,50,50,50,50
+ST3-09,ST3-09,Angewomon,エンジェウーモン,False,U,5,yuyutei,0,0,0,100,100,100,100,100,100
+ST3-10,ST3-10,Magnadramon,ホーリードラモン,False,R,6,bigweb,0,0,0,0,0,80,80,80,80
+ST3-10,ST3-10,Magnadramon,ホーリードラモン,False,R,6,yuyutei,0,0,0,100,100,100,100,100,100
+ST3-11,ST3-11,Seraphimon,セラフィモン,False,SR,6,bigweb,0,0,0,0,0,50,50,50,50
+ST3-11,ST3-11,Seraphimon,セラフィモン,False,SR,6,yuyutei,0,0,0,100,100,100,100,100,100
+ST3-12,ST3-12,Takeru Takaishi,高石タケル,False,R,0,bigweb,0,0,0,0,0,50,50,50,50
+ST3-12,ST3-12,Takeru Takaishi,高石タケル,False,R,0,yuyutei,0,0,0,50,50,50,50,50,50
+ST3-13,ST3-13,Heaven's Gate,ヘブンズゲート,False,C,0,bigweb,0,0,0,0,0,20,20,20,20
+ST3-13,ST3-13,Heaven's Gate,ヘブンズゲート,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+ST3-14,ST3-14,Heaven's Charm,ヘブンズチャーム,False,C,0,bigweb,0,0,0,0,0,50,50,50,50
+ST3-14,ST3-14,Heaven's Charm,ヘブンズチャーム,False,C,0,yuyutei,0,0,0,100,100,100,100,100,100
+ST3-15,ST3-15,Holy Flame,ホーリーフレイム,False,C,0,bigweb,0,0,0,0,0,20,20,20,20
+ST3-15,ST3-15,Holy Flame,ホーリーフレイム,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+ST3-16,ST3-16,Seven Heavens,セブンヘブンズ,False,U,0,bigweb,0,0,0,0,0,80,80,80,80
+ST3-16,ST3-16,Seven Heavens,セブンヘブンズ,False,U,0,yuyutei,0,0,0,200,200,200,200,200,200
+ST4-01,ST4-01,Motimon,モチモン,False,U,2,bigweb,0,0,0,0,0,20,20,20,20
+ST4-01,ST4-01,Motimon,モチモン,False,U,2,yuyutei,0,0,0,20,20,20,20,20,20
+ST4-02,ST4-02,Floramon,フローラモン,False,C,3,bigweb,0,0,0,0,0,20,20,20,20
+ST4-02,ST4-02,Floramon,フローラモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+ST4-03,ST4-03,Tentomon,テントモン,False,U,3,bigweb,0,0,0,0,0,20,20,20,20
+ST4-03,ST4-03,Tentomon,テントモン,False,U,3,yuyutei,0,0,0,20,20,20,20,20,20
+ST4-04,ST4-04,Palmon,パルモン,False,C,3,bigweb,0,0,0,0,0,20,20,20,20
+ST4-04,ST4-04,Palmon,パルモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+ST4-05,ST4-05,Kunemon,クネモン,False,C,3,bigweb,0,0,0,0,0,20,20,20,20
+ST4-05,ST4-05,Kunemon,クネモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+ST4-06,ST4-06,Togemon,トゲモン,False,C,4,bigweb,0,0,0,0,0,20,20,20,20
+ST4-06,ST4-06,Togemon,トゲモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+ST4-07,ST4-07,Kuwagamon,クワガーモン,False,C,4,bigweb,0,0,0,0,0,20,20,20,20
+ST4-07,ST4-07,Kuwagamon,クワガーモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+ST4-08,ST4-08,Kabuterimon,カブテリモン,False,U,4,bigweb,0,0,0,0,0,200,200,200,200
+ST4-08,ST4-08,Kabuterimon,カブテリモン,False,U,4,yuyutei,0,0,0,200,200,200,200,200,200
+ST4-09,ST4-09,Okuwamon,オオクワモン,False,C,5,bigweb,0,0,0,0,0,20,20,20,20
+ST4-09,ST4-09,Okuwamon,オオクワモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+ST4-10,ST4-10,Lillymon,リリモン,False,U,5,bigweb,0,0,0,0,0,20,20,20,20
+ST4-10,ST4-10,Lillymon,リリモン,False,U,5,yuyutei,0,0,0,50,50,50,50,50,50
+ST4-11,ST4-11,MegaKabuterimon,アトラーカブテリモン,False,R,5,bigweb,0,0,0,0,0,80,80,80,100
+ST4-11,ST4-11,MegaKabuterimon,アトラーカブテリモン,False,R,5,yuyutei,0,0,0,50,50,50,50,50,50
+ST4-12,ST4-12,Rosemon,ロゼモン,False,R,6,bigweb,0,0,0,0,0,80,80,80,80
+ST4-12,ST4-12,Rosemon,ロゼモン,False,R,6,yuyutei,0,0,0,100,100,100,100,100,100
+ST4-13,ST4-13,HerculesKabuterimon,ヘラクルカブテリモン,False,SR,6,bigweb,0,0,0,0,0,80,80,80,80
+ST4-13,ST4-13,HerculesKabuterimon,ヘラクルカブテリモン,False,SR,6,yuyutei,0,0,0,200,200,200,200,200,200
+ST4-14,ST4-14,Koshiro Izumi,泉光子郎,False,R,0,bigweb,0,0,0,0,0,50,50,50,50
+ST4-14,ST4-14,Koshiro Izumi,泉光子郎,False,R,0,yuyutei,0,0,0,50,50,50,50,50,50
+ST4-15,ST4-15,Needle Spray,チクチクバンバン,False,C,0,bigweb,0,0,0,0,0,20,20,20,20
+ST4-15,ST4-15,Needle Spray,チクチクバンバン,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+ST4-16,ST4-16,Electro Shocker,メガブラスター,False,U,0,bigweb,0,0,0,0,0,150,150,150,150
+ST4-16,ST4-16,Electro Shocker,メガブラスター,False,U,0,yuyutei,0,0,0,50,50,50,50,50,50
+ST5-01,ST5-01,Kapurimon,カプリモン,False,U,2,bigweb,0,0,0,0,0,20,20,20,20
+ST5-01,ST5-01,Kapurimon,カプリモン,False,U,2,yuyutei,0,0,0,20,20,20,20,20,20
+ST5-02,ST5-02,Jazamon,ジャザモン,False,C,3,bigweb,0,0,0,0,0,20,20,20,20
+ST5-02,ST5-02,Jazamon,ジャザモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+ST5-03,ST5-03,Agumon,アグモン,False,U,3,bigweb,0,0,0,0,0,20,20,20,20
+ST5-03,ST5-03,Agumon,アグモン,False,U,3,yuyutei,0,0,0,20,20,20,20,20,20
+ST5-04,ST5-04,ToyAgumon,トイアグモン,False,C,3,bigweb,0,0,0,0,0,20,20,20,20
+ST5-04,ST5-04,ToyAgumon,トイアグモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+ST5-05,ST5-05,Commandramon,コマンドラモン,False,C,3,bigweb,0,0,0,0,0,20,20,20,20
+ST5-05,ST5-05,Commandramon,コマンドラモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+ST5-06,ST5-06,Greymon,グレイモン,False,C,4,bigweb,0,0,0,0,0,20,20,20,20
+ST5-06,ST5-06,Greymon,グレイモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+ST5-07,ST5-07,Jazardmon,ジャザードモン,False,C,4,bigweb,0,0,0,0,0,20,20,20,20
+ST5-07,ST5-07,Jazardmon,ジャザードモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+ST5-08,ST5-08,DarkTyrannomon,ダークティラノモン,False,U,4,bigweb,0,0,0,0,0,200,200,200,200
+ST5-08,ST5-08,DarkTyrannomon,ダークティラノモン,False,U,4,yuyutei,0,0,0,200,200,200,200,200,200
+ST5-09,ST5-09,MetalGreymon,メタルグレイモン,False,U,5,bigweb,0,0,0,0,0,20,20,20,20
+ST5-09,ST5-09,MetalGreymon,メタルグレイモン,False,U,5,yuyutei,0,0,0,20,20,20,20,20,20
+ST5-10,ST5-10,MetalTyrannomon,メタルティラノモン,False,C,5,bigweb,0,0,0,0,0,20,20,20,20
+ST5-10,ST5-10,MetalTyrannomon,メタルティラノモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+ST5-11,ST5-11,Megadramon,メガドラモン,False,R,5,bigweb,0,0,0,0,0,80,80,80,80
+ST5-11,ST5-11,Megadramon,メガドラモン,False,R,5,yuyutei,0,0,0,100,100,100,100,100,100
+ST5-12,ST5-12,Machinedramon,ムゲンドラモン,False,R,6,bigweb,0,0,0,0,0,80,80,80,80
+ST5-12,ST5-12,Machinedramon,ムゲンドラモン,False,R,6,yuyutei,0,0,0,50,50,50,50,50,50
+ST5-13,ST5-13,BlitzGreymon,ブリッツグレイモン,False,SR,6,bigweb,0,0,0,0,0,80,80,80,80
+ST5-13,ST5-13,BlitzGreymon,ブリッツグレイモン,False,SR,6,yuyutei,0,0,0,200,200,200,100,100,100
+ST5-14,ST5-14,Taichi Yagami,八神太一,False,R,0,bigweb,0,0,0,0,0,50,50,50,50
+ST5-14,ST5-14,Taichi Yagami,八神太一,False,R,0,yuyutei,0,0,0,20,20,20,20,20,20
+ST5-15,ST5-15,Laser Eye,レーザーアイ,False,C,0,bigweb,0,0,0,0,0,20,20,20,20
+ST5-15,ST5-15,Laser Eye,レーザーアイ,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+ST5-16,ST5-16,Genocide Attack,ジェノサイドアタック,False,U,0,bigweb,0,0,0,0,0,180,180,180,180
+ST5-16,ST5-16,Genocide Attack,ジェノサイドアタック,False,U,0,yuyutei,0,0,0,200,200,200,150,200,200
+ST6-01,ST6-01,Pagumon,パグモン,False,U,2,bigweb,0,0,0,0,0,20,20,20,20
+ST6-01,ST6-01,Pagumon,パグモン,False,U,2,yuyutei,0,0,0,20,20,20,20,20,20
+ST6-02,ST6-02,DemiDevimon,ピコデビモン,False,C,3,bigweb,0,0,0,0,0,20,20,20,20
+ST6-02,ST6-02,DemiDevimon,ピコデビモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+ST6-03,ST6-03,Gabumon,ガブモン,False,C,3,bigweb,0,0,0,0,0,30,30,30,30
+ST6-03,ST6-03,Gabumon,ガブモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+ST6-04,ST6-04,Dracmon,ドラクモン,False,U,3,bigweb,0,0,0,0,0,20,20,20,20
+ST6-04,ST6-04,Dracmon,ドラクモン,False,U,3,yuyutei,0,0,0,20,20,20,20,20,20
+ST6-05,ST6-05,Elecmon,エレキモン,False,C,3,bigweb,0,0,0,0,0,20,20,20,20
+ST6-05,ST6-05,Elecmon,エレキモン,False,C,3,yuyutei,0,0,0,20,20,20,20,20,20
+ST6-06,ST6-06,Garurumon,ガルルモン,False,C,4,bigweb,0,0,0,0,0,20,20,20,20
+ST6-06,ST6-06,Garurumon,ガルルモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+ST6-07,ST6-07,Youkomon,ヨウコモン,False,C,4,bigweb,0,0,0,0,0,20,20,20,20
+ST6-07,ST6-07,Youkomon,ヨウコモン,False,C,4,yuyutei,0,0,0,20,20,20,20,20,20
+ST6-08,ST6-08,Devimon,デビモン,False,U,4,bigweb,0,0,0,0,0,250,250,300,300
+ST6-08,ST6-08,Devimon,デビモン,False,U,4,yuyutei,0,0,0,200,200,200,200,200,200
+ST6-09,ST6-09,Kyukimon,キュウキモン,False,C,5,bigweb,0,0,0,0,0,20,20,20,20
+ST6-09,ST6-09,Kyukimon,キュウキモン,False,C,5,yuyutei,0,0,0,20,20,20,20,20,20
+ST6-10,ST6-10,SkullSatamon,スカルサタモン,False,U,5,bigweb,0,0,0,0,0,20,20,20,20
+ST6-10,ST6-10,SkullSatamon,スカルサタモン,False,U,5,yuyutei,0,0,0,20,20,20,20,20,20
+ST6-11,ST6-11,WereGarurumon,ワーガルルモン,False,R,5,bigweb,0,0,0,0,0,80,80,80,80
+ST6-11,ST6-11,WereGarurumon,ワーガルルモン,False,R,5,yuyutei,0,0,0,50,50,50,50,50,50
+ST6-12,ST6-12,VenomMyotismon,ヴェノムヴァンデモン,False,R,6,bigweb,0,0,0,0,0,80,80,80,80
+ST6-12,ST6-12,VenomMyotismon,ヴェノムヴァンデモン,False,R,6,yuyutei,0,0,0,50,50,50,50,50,50
+ST6-13,ST6-13,CresGarurumon,クーレスガルルモン,False,SR,6,bigweb,0,0,0,0,0,80,80,80,80
+ST6-13,ST6-13,CresGarurumon,クーレスガルルモン,False,SR,6,yuyutei,0,0,0,100,100,100,100,100,100
+ST6-14,ST6-14,Yamato Ishida,石田ヤマト,False,R,0,bigweb,0,0,0,0,0,50,50,50,50
+ST6-14,ST6-14,Yamato Ishida,石田ヤマト,False,R,0,yuyutei,0,0,0,50,50,50,50,50,50
+ST6-15,ST6-15,Death Claw,デスクロウ,False,C,0,bigweb,0,0,0,0,0,20,20,20,20
+ST6-15,ST6-15,Death Claw,デスクロウ,False,C,0,yuyutei,0,0,0,20,20,20,20,20,20
+ST6-16,ST6-16,Nail Bone,ネイルボーン,False,U,0,bigweb,0,0,0,0,0,120,120,120,120
+ST6-16,ST6-16,Nail Bone,ネイルボーン,False,U,0,yuyutei,0,0,0,100,100,100,100,100,100
