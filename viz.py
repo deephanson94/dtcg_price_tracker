@@ -10,33 +10,7 @@ st.title('DTCG prices (YEN)')
 # read in
 df = pd.read_csv('weekly_prices.csv')
 df = df.drop(columns=['card_id_aa', 'level'])
-# df = pd.read_csv('viz_debug.csv', index_col=None)
-# df = df.reset_index(drop=True)
 
-# # display
-# # st.line_chart(df)
-# col1, col2 = st.beta_columns([1,3])
-
-# # buttons
-# col1.header("Search by digimon name:")
-# digi_name = col1.text_input("Digimon name")
-
-# col1.subheader("Or")
-
-# col1.header("Search by multiselect")
-# bt_version = col1.radio('BT version', ('BT1', 'BT2', 'BT3', 'BT4'))
-# AA = col1.checkbox("Parallel art?")
-
-# # st.info(digi_name)
-# digi_name = digi_name.strip()
-
-# # filter
-# if digi_name:
-#     df_filter = df[df['name_eng'].str.contains(digi_name, case=False)]
-# else:
-#     df_filter = df[(df['card_id'].str.contains(bt_version)) & (df['AA'] == AA)]
-# col2.dataframe(df_filter)
-# # col2.table(df_filter)
 
 
 # filter
