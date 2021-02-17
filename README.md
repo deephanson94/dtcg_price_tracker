@@ -17,5 +17,5 @@ You can then also pick one of them from the dropdown menu, and see the trend of 
 
 > Prices will be updated weekly.
 
-
-*Built using Streamlit*
+## Tools ##
+Built using Streamlit
