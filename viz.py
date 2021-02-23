@@ -30,6 +30,8 @@ st.header('Table')
 
 # display df
 if digi_name:
+    # if digi_name.lower() in 'omegamon' or digi_name.lower() in 'omnimon':
+    # df = df[df['name_eng']]
     df = df[df['name_eng'].str.contains(digi_name, case=False)]
     if bt_version != '(All)':
         df = df[df['card_id'].str.contains(bt_version)]
@@ -52,7 +54,7 @@ if digi_name:
     dfv['bt_name'] = dfv['card_id'] + " | " + dfv['name_eng'] + " | " + dfv['rarity']
 
     st.header('Plot')
-    selected_bt_name = st.selectbox("Plot digimon:", dfv['bt_name'].unique().tolist())
+    selected_bt_name = st.selectbox("Choose a digimon to plot:", dfv['bt_name'].unique().tolist())
     
     dfv = dfv.loc[dfv.bt_name == selected_bt_name]
     dfv = dfv.melt(id_vars=['bt_name','card_id', 'name_eng', 'name_jap','AA','rarity', 'shop'], var_name='Date', value_name='Price')
@@ -72,7 +74,7 @@ if digi_name:
     c = alt.Chart(dfv_normal).mark_line(interpolate='linear', point=True).encode(
         x='Date',
         y=alt.X('Price', scale=alt.Scale(zero=False, padding=1)),
-        color='shop',
+        color=alt.Color('shop',legend=alt.Legend(orient="top-left")),
         text='Price',
         tooltip=['Date', 'Price', 'shop']
     )
@@ -85,7 +87,7 @@ if digi_name:
     c = alt.Chart(dfv_AA).mark_line(interpolate='linear', point=True).encode(
         x='Date',
         y=alt.X('Price', scale=alt.Scale(zero=False, padding=1)),
-        color='shop',
+        color=alt.Color('shop',legend=alt.Legend(orient="top-left")),
         tooltip=['Date', 'Price', 'shop']
     )
     t = c.mark_text(align='center', baseline='middle', fontSize=10, dy=-10).encode(
@@ -97,8 +99,8 @@ if digi_name:
     c = alt.Chart(dfv).mark_circle(interpolate='linear', point=True).encode(
         x='Date',
         y=alt.X('Price', scale=alt.Scale(zero=False, padding=1)),
-        color='shop',
-        size=alt.Size('AA', scale=alt.Scale(5)),
+        color=alt.Color('shop',legend=alt.Legend(orient="top-left")),
+        size=alt.Size('AA', scale=alt.Scale(5), legend=alt.Legend(orient="top-left")),
         tooltip=['Date', 'Price', 'AA']
     )
     t = alt.Chart(dfv).mark_text(align='center', baseline='middle', fontSize=10, dy=-10).encode(
