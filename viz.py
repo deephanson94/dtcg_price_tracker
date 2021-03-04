@@ -30,9 +30,10 @@ st.header('Table')
 
 # display df
 if digi_name:
-    # if digi_name.lower() in 'omegamon' or digi_name.lower() in 'omnimon':
-    # df = df[df['name_eng']]
-    df = df[df['name_eng'].str.contains(digi_name, case=False)]
+    if digi_name.lower() in 'omegamon' or digi_name.lower() in 'omnimon':
+        df = df[(df['name_eng'].str.contains('omegamon', case=False)) | (df['name_eng'].str.contains('omnimon', case=False))]
+    else:
+        df = df[df['name_eng'].str.contains(digi_name, case=False)]
     if bt_version != '(All)':
         df = df[df['card_id'].str.contains(bt_version)]
     if AA != '(All)':
