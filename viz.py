@@ -56,7 +56,7 @@ if digi_name:
     latest_updated_dt = pd.to_datetime(latest_updated_dt)
     st.text("Last updated: " + str(latest_updated_dt.strftime('%b-%d')))
     # st.dataframe(dft[['card_id', 'name_eng', 'AA', 'rarity', 'shop', 'latest']])
-    st.dataframe(dft[['YEN','AA','card_id', 'name_eng', 'shop', 'T']])    
+    st.dataframe(dft[['YEN', 'card_id', 'AA', 'name_eng', 'shop', 'T']])    
 
     # draw!
     dfv = df.copy()
