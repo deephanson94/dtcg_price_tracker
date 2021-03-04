@@ -75,7 +75,7 @@ if digi_name:
     c = alt.Chart(dfv_normal).mark_line(interpolate='linear', point=True).encode(
         x='Date',
         y=alt.X('Price', scale=alt.Scale(zero=False, padding=1)),
-        color=alt.Color('shop',legend=alt.Legend(orient="top-left")),
+        color=alt.Color('shop',legend=alt.Legend(orient="top")),
         text='Price',
         tooltip=['Date', 'Price', 'shop']
     )
@@ -88,7 +88,7 @@ if digi_name:
     c = alt.Chart(dfv_AA).mark_line(interpolate='linear', point=True).encode(
         x='Date',
         y=alt.X('Price', scale=alt.Scale(zero=False, padding=1)),
-        color=alt.Color('shop',legend=alt.Legend(orient="top-left")),
+        color=alt.Color('shop',legend=alt.Legend(orient="top")),
         tooltip=['Date', 'Price', 'shop']
     )
     t = c.mark_text(align='center', baseline='middle', fontSize=10, dy=-10).encode(
@@ -100,8 +100,8 @@ if digi_name:
     c = alt.Chart(dfv).mark_circle(interpolate='linear', point=True).encode(
         x='Date',
         y=alt.X('Price', scale=alt.Scale(zero=False, padding=1)),
-        color=alt.Color('shop',legend=alt.Legend(orient="top-left")),
-        size=alt.Size('AA', scale=alt.Scale(5), legend=alt.Legend(orient="top-left")),
+        color=alt.Color('shop',legend=alt.Legend(orient="top")),
+        size=alt.Size('AA', scale=alt.Scale(5), legend=alt.Legend(orient="top")),
         tooltip=['Date', 'Price', 'AA']
     )
     t = alt.Chart(dfv).mark_text(align='center', baseline='middle', fontSize=10, dy=-10).encode(
