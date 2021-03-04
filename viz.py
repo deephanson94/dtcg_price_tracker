@@ -2,8 +2,15 @@ import streamlit as st
 import numpy as np 
 import pandas as pd
 import altair as alt
+from datetime import datetime, timedelta
 
 bt_list = ['BT1', 'BT2','BT3','BT4','BT5','ST1','ST2','ST3','ST4','ST5','ST6','P']
+
+# basis
+st.set_page_config(
+    page_title='DTCG prices',
+    layout='wide'
+)
 
 st.title('DTCG prices (YEN)')
 
@@ -26,7 +33,7 @@ shop = col3.multiselect("Shop name", ['bigweb', 'yuyutei'], default=['bigweb', '
 
 digi_name = digi_name.strip()
 
-st.header('Table')
+st.header('Pricing table')
 
 # display df
 if digi_name:
@@ -42,28 +49,46 @@ if digi_name:
     df = df[df['shop'].isin(shop)]
     dft = df.copy()
     latest_updated_dt = dft.columns[-1]
-    dft['latest'] = dft[latest_updated_dt]
+    dft['YEN'] = dft[latest_updated_dt]
+    dft['T'] = dft['rarity'] # simple rename for better viewing
     latest_updated_dt = latest_updated_dt.replace('p_', '')
     latest_updated_dt = latest_updated_dt[0:4] + '-' + latest_updated_dt[4:6] + '-' + latest_updated_dt[6:]
     latest_updated_dt = pd.to_datetime(latest_updated_dt)
-    st.text("Latest updated date: " + str(latest_updated_dt.strftime('%b-%d')))
-    st.dataframe(dft[['card_id', 'name_eng', 'AA', 'rarity', 'shop', 'latest']])
+    st.text("Last updated: " + str(latest_updated_dt.strftime('%b-%d')))
+    # st.dataframe(dft[['card_id', 'name_eng', 'AA', 'rarity', 'shop', 'latest']])
+    st.dataframe(dft[['YEN', 'card_id', 'name_eng', 'shop', 'T', 'AA']])    
 
     # draw!
     dfv = df.copy()
     dfv = dfv.replace(0, np.nan)
     dfv['bt_name'] = dfv['card_id'] + " | " + dfv['name_eng'] + " | " + dfv['rarity']
 
-    st.header('Plot')
+    st.header('Trend plotting')
     selected_bt_name = st.selectbox("Choose a digimon to plot:", dfv['bt_name'].unique().tolist())
     
     dfv = dfv.loc[dfv.bt_name == selected_bt_name]
     dfv = dfv.melt(id_vars=['bt_name','card_id', 'name_eng', 'name_jap','AA','rarity', 'shop'], var_name='Date', value_name='Price')
     # modify date to datetime
     dfv['Date'] = dfv['Date'].str.replace(r'^p_', '')
-    dfv['Date'] = pd.to_datetime(dfv['Date'].str[0:4] + '-' + dfv['Date'].str[4:6] + '-' + dfv['Date'].str[6:])
+    dfv['Date'] = pd.to_datetime(dfv['Date'].str[0:4] + '-' + dfv['Date'].str[4:6] + '-' + dfv['Date'].str[6:]).dt.date
     dfv_normal = dfv.loc[dfv.AA == 0]
     dfv_AA = dfv.loc[dfv.AA == 1]
+
+    # slider to filter dates
+    min_date = min(dfv['Date'])
+    max_date = max(dfv['Date'])
+    filter_start_date, filter_end_date = st.slider(
+        'Filter by date', 
+        min_date, max_date, 
+        (min_date, max_date),
+        timedelta(days=7),
+        format='MMM DD'
+    )
+    
+    dfv_normal = dfv_normal.loc[(dfv_normal['Date'] >= filter_start_date) & (dfv_normal['Date'] <= filter_end_date)]
+    dfv_AA = dfv_AA.loc[(dfv_AA['Date'] >= filter_start_date) & (dfv_AA['Date'] <= filter_end_date)]
+    dfv = dfv.loc[(dfv['Date'] >= filter_start_date) & (dfv['Date'] <= filter_end_date)]
+
 
     # c = alt.Chart(dfv_normal).mark_line().encode(
     #     x='Date',
